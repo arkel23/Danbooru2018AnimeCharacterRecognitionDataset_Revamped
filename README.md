@@ -1,3 +1,16 @@
+# REVAMPED
+
+This repo provides substantial changes to the dataset provided by 
+[grapeot](https://github.com/grapeot/Danbooru2018AnimeCharacterRecognitionDataset).
+Scripts provided to make the new dataset are provided as follows:
+* `make_data_dic_danbooru.py` reads the original faces.tsv file and extracts directories and IDs with prediction confidence above 85% as previously done. 
+Then only the IDs and addresses are kept.
+* `data_split_danbooru.py` reads the resulting danbooru2018_faces_85.csv file from the previous script and generates train, val and test.csv files corresponding to
+0.7, 0.1 and 0.2 ratios of the total number of images.
+Additionally, this script only keeps the classes with at least 10 examples in the dataset.
+This makes the dataset keep its use for testing for long-tailed and few-shot classification and detection tasks
+But at the same time reducing the overall complexity of the set.
+
 # Danbooru 2018 Anime Character Recognition Dataset
 
 This repo provides an anime character recognition dataset based on [Danbooru 2018](https://www.gwern.net/Danbooru2018).
