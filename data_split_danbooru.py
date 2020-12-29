@@ -13,6 +13,9 @@ def data_split(data_dic_path):
     class_name_list 
     '''
     
+    SPLIT = [0.7, 0.1, 0.2]
+    CLASS_THRESHHOLD = 20
+
     # class_name_list = [] # append new classes after filtering to this
 
     df = pd.read_csv(data_dic_path, sep=',', names=['dir', 'class_id'])
@@ -22,7 +25,7 @@ def data_split(data_dic_path):
     samples_per_class_df = df.groupby('class_id', as_index=True).count()
     print(samples_per_class_df.head())
     
-    split = [0.7, 0.1, 0.2]
+    
     df_list_train = []
     df_list_val = []
     df_list_test = []
@@ -33,14 +36,14 @@ def data_split(data_dic_path):
 
     for class_id in samples_per_class_df.index:
         total_samples_class = samples_per_class_df.loc[class_id, 'dir']
-        if total_samples_class >= 10:
-            train_val_samples_class = int(total_samples_class*(split[0] + split[1]))
+        if total_samples_class >= CLASS_THRESHHOLD:
+            train_val_samples_class = int(total_samples_class*(SPLIT[0] + SPLIT[1]))
             test_samples_class = total_samples_class - train_val_samples_class
             assert(train_val_samples_class + test_samples_class == total_samples_class)
             train_val_subset_class = df.loc[df['class_id']==class_id].groupby('class_id').head(train_val_samples_class)
             test_subset_class = df.loc[df['class_id']==class_id].groupby('class_id').tail(test_samples_class)
 
-            train_samples_class = int(total_samples_class*split[0])
+            train_samples_class = int(total_samples_class*SPLIT[0])
             val_samples_class = train_val_samples_class - train_samples_class
             assert(train_samples_class + val_samples_class == train_val_samples_class)
             assert(train_samples_class + val_samples_class + test_samples_class == total_samples_class)
@@ -72,6 +75,9 @@ def data_split(data_dic_path):
     print('Test df: ')
     print(df_test.head())
     print(df_test.shape)
+    
+    print('No of classes in train/val/test sets: {} / {} / {}'.format(
+    df_train['class_id'].nunique(), df_val['class_id'].nunique(), df_test['class_id'].nunique()))
 
     df_train.to_csv('train.csv', sep=',', header=False, index=False)
     df_val.to_csv('val.csv', sep=',', header=False, index=False)
