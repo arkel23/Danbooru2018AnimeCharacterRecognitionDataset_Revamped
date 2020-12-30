@@ -11,6 +11,11 @@ Additionally, this script only keeps the classes with at least 10 examples in th
 This makes the dataset keep its use for testing for long-tailed and few-shot classification and detection tasks
 But at the same time reducing the overall complexity of the set.
 
+Download set and unpack into the same root directory as the Danbooru2018AnimeCharacterRecognitionDataset
+Unpack tarball: `tar -xvf file.tar`
+
+Below has been unchanged.
+
 # Danbooru 2018 Anime Character Recognition Dataset
 
 This repo provides an anime character recognition dataset based on [Danbooru 2018](https://www.gwern.net/Danbooru2018).
