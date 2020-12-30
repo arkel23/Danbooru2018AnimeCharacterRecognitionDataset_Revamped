@@ -22,7 +22,7 @@ def reduced_dic(file_name):
         if confidence >= 0.85:
             high_confidence.append(idx)
             rel_path = df.iloc[idx]['dir']
-            img_path = os.path.join('danbooru2018_animefacecropdataset', rel_path)
+            img_path = os.path.join('data', rel_path)
             img = Image.open(img_path)
             if img.mode == 'RGB':
                 verified_image.append(idx)
@@ -43,7 +43,8 @@ def reduced_dic(file_name):
 
 def main():
     '''
-    input is the path to the Danbooru2018CharacterRecognitionDataset
+    input is the path to the Danbooru2018CharacterRecognitionDataset faces.tsv file
+    it then checks for the data/rel_path from the faces.tsv file
     '''
     try:
         data_folder = os.path.abspath(sys.argv[1])
