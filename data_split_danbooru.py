@@ -12,6 +12,9 @@ def data_split(data_dic_path):
 
     df = pd.read_csv(data_dic_path[0], sep=',', names=['dir', 'class_id_og'])
     print('Original df: ', len(df))
+    cols = df.columns.tolist()
+    cols = cols[-1:] + cols[:-1] # reordering the columns
+    df = df[cols]
     print(df.head())
     
     samples_per_class_df = df.groupby('class_id_og', as_index=True).count()
