@@ -10,7 +10,7 @@ def data_split(data_dic_path):
     SPLIT = [0.7, 0.1, 0.2]
     CLASS_THRESHHOLD = 20
 
-    df = pd.read_csv(data_dic_path[0], sep=',', names=['dir', 'class_id_og'])
+    df = pd.read_csv(data_dic_path[0], sep=',', names=['class_id_og', 'dir'])
     print('Original df: ', len(df))
     cols = df.columns.tolist()
     cols = cols[-1:] + cols[:-1] # reordering the columns

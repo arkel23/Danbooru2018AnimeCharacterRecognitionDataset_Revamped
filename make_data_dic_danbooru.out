@@ -1,4 +1,3 @@
-python make_data_dic_danbooru.py
                 dir  id                                           coords
 0   0446/332446.jpg   1  0.448534, 0.441995, 0.584106, 0.654420 0.337403
 1   0959/324959.jpg   2  0.460978, 0.077540, 0.634755, 0.353783 0.331372
@@ -8,11 +7,10 @@ python make_data_dic_danbooru.py
 Total number of images (prefiltering):  977356
 Total number of images with high confidence (85%):  561557
 Total number of images post RGB only filter:  561557
+    id               dir
+7   16  0810/2313810.jpg
+9   20   0923/693923.jpg
+14  31   0988/115988.jpg
+15  33    0071/40071.jpg
+16  35    0600/66600.jpg
 Number of classes pre / post filtering (85% + RGB only): 49087 / 34488
-                 dir  id image_id
-7   0810/2313810.jpg  16  2313810
-9    0923/693923.jpg  20   693923
-14   0988/115988.jpg  31   115988
-15    0071/40071.jpg  33    40071
-16    0600/66600.jpg  35    66600
-
