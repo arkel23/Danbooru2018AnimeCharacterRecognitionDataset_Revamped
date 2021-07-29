@@ -30,7 +30,7 @@ def reduced_dic(file_name):
     print('Total number of images with high confidence (85%): ', len(high_confidence))
     print('Total number of images post RGB only filter: ', len(verified_image))
 
-    new_df = df[['dir', 'id']].iloc[verified_image]
+    new_df = df[['id', 'dir']].iloc[verified_image]
     print(new_df.head())
     no_classes_pre = df['id'].nunique()
     no_classes_post = new_df['id'].nunique()
