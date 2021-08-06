@@ -1,0 +1,157 @@
+Logs for the make_data_dic_danboory.py script:
+```
+Danbooru2018AnimeCharacterRecognitionDataset$ python make_data_dic_danbooru.py
+                dir  id                                           coords
+0   0446/332446.jpg   1  0.448534, 0.441995, 0.584106, 0.654420 0.337403
+1   0959/324959.jpg   2  0.460978, 0.077540, 0.634755, 0.353783 0.331372
+2   0448/284448.jpg   5  0.729760, 0.227915, 0.906681, 0.434454 0.809762
+3   0305/427305.jpg   7  0.208869, 0.094551, 0.992154, 0.856721 0.800811
+4  0864/1083864.jpg   8  0.435706, 0.332848, 0.553165, 0.507933 0.848607
+Total number of images (prefiltering):  977356
+Total number of images with high confidence (85%):  561557
+Total number of images post RGB only filter:  561557
+                 dir  id
+7   0810/2313810.jpg  16
+9    0923/693923.jpg  20
+14   0988/115988.jpg  31
+15    0071/40071.jpg  33
+16    0600/66600.jpg  35
+Number of classes pre / post filtering (85% + RGB only): 49087 / 34488
+```
+
+# Split and class thresholds
+Tried for different class thresholds including 5, 10 and 20. 
+In the end settled for 20 to ensure all the splits had at least one sample of each class.
+Total number of samples was reduced from 977k to 561 k to 520 k, 495 k and 463 k, respectively.
+Total number of classes was reduced from 49 k to 34 k to 9.4 k, 5.6 k and 3.2 k, respectively.
+```
+(dl) edwin_ed520@gpu:/home2/yan/disk/edwin/personal/data/personal/Danbooru2018AnimeCharacterRecognitionDataset$ python data_split_danbooru.py
+Original df:  561557
+                dir  class_id
+0  0810/2313810.jpg        16
+1   0923/693923.jpg        20
+2   0988/115988.jpg        31
+3    0071/40071.jpg        33
+4    0600/66600.jpg        35
+          dir
+class_id
+0          11
+1         225
+2          20
+3         131
+4         114
+Total number of samples pre/post filtering: 561557 / 495359
+Total number of classes pre/post filtering: 34488 / 5619
+Train df:
+                     dir  class_id
+15379   0776/1777776.jpg         0
+24351   0890/2627890.jpg         0
+35313    0398/247398.jpg         0
+59480    0406/261406.jpg         0
+202126    0261/62261.jpg         0
+(344318, 2)
+Val df:
+                     dir  class_id
+343047   0159/263159.jpg         0
+389673   0933/194933.jpg         1
+393063  0943/2841943.jpg         1
+396663  0522/2354522.jpg         1
+396866  0713/2301713.jpg         1
+(48669, 2)
+Test df:
+                     dir  class_id
+373899   0169/263169.jpg         0
+460075   0408/261408.jpg         0
+526246   0199/263199.jpg         0
+453374  0291/1796291.jpg         1
+454233  0966/2160966.jpg         1
+(102372, 2)
+No of classes in train/val/test sets: 5619 / 5240 / 5619
+Finished saving train, val and test split dictionaries.
+(dl) edwin_ed520@gpu:/home2/yan/disk/edwin/personal/data/personal/Danbooru2018AnimeCharacterRecognitionDataset$ python data_split_danbooru.py
+Original df:  561557
+                dir  class_id
+0  0810/2313810.jpg        16
+1   0923/693923.jpg        20
+2   0988/115988.jpg        31
+3    0071/40071.jpg        33
+4    0600/66600.jpg        35
+          dir
+class_id
+0          11
+1         225
+2          20
+3         131
+4         114
+Total number of samples pre/post filtering: 561557 / 463437
+Total number of classes pre/post filtering: 34488 / 3263
+Train df:
+                    dir  class_id
+9683    0545/676545.jpg         1
+9796   0950/1390950.jpg         1
+12086  0159/1607159.jpg         1
+12196   0218/196218.jpg         1
+19282  0341/2419341.jpg         1
+(322947, 2)
+Val df:
+                     dir  class_id
+389673   0933/194933.jpg         1
+393063  0943/2841943.jpg         1
+396663  0522/2354522.jpg         1
+396866  0713/2301713.jpg         1
+398845  0218/2509218.jpg         1
+(46050, 2)
+Test df:
+                     dir  class_id
+453374  0291/1796291.jpg         1
+454233  0966/2160966.jpg         1
+454499   0595/920595.jpg         1
+454979  0923/2188923.jpg         1
+455297  0237/2405237.jpg         1
+(94440, 2)
+No of classes in train/val/test sets: 3263 / 3263 / 3263
+Finished saving train, val and test split dictionaries.
+(dl) edwin_ed520@gpu:/home2/yan/disk/edwin/personal/data/personal/Danbooru2018AnimeCharacterRecognitionDataset$ python data_split_danbooru.py
+Original df:  561557
+                dir  class_id
+0  0810/2313810.jpg        16
+1   0923/693923.jpg        20
+2   0988/115988.jpg        31
+3    0071/40071.jpg        33
+4    0600/66600.jpg        35
+          dir
+class_id
+0          11
+1         225
+2          20
+3         131
+4         114
+Total number of samples pre/post filtering: 561557 / 520019
+Total number of classes pre/post filtering: 34488 / 9424
+Train df:
+                     dir  class_id
+15379   0776/1777776.jpg         0
+24351   0890/2627890.jpg         0
+35313    0398/247398.jpg         0
+59480    0406/261406.jpg         0
+202126    0261/62261.jpg         0
+(359726, 2)
+Val df:
+                     dir  class_id
+343047   0159/263159.jpg         0
+389673   0933/194933.jpg         1
+393063  0943/2841943.jpg         1
+396663  0522/2354522.jpg         1
+396866  0713/2301713.jpg         1
+(50311, 2)
+Test df:
+                     dir  class_id
+373899   0169/263169.jpg         0
+460075   0408/261408.jpg         0
+526246   0199/263199.jpg         0
+453374  0291/1796291.jpg         1
+454233  0966/2160966.jpg         1
+(109982, 2)
+No of classes in train/val/test sets: 9424 / 6882 / 9424
+Finished saving train, val and test split dictionaries.
+```

@@ -3,4 +3,10 @@ count_files.sh
 danbooru2018*/
 data/
 dafre/
+faces128/
+fullMin256/
+faces/
+min128/
+faces128x128/
+fullShort256/
 *.gz
