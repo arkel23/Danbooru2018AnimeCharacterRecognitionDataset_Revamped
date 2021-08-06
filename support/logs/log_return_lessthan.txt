@@ -1,0 +1,328 @@
+Original length:  463437
+No of unique tags in cat 0 without removing less than 2 char tags: 18852
+0     [1 girl, bare shoulders, bikini, blush, braid,...
+1     [1 girl, bare shoulders, breasts, brown eyes, ...
+2     [1 girl, blush, bowl, bowl hat, chin tickle, h...
+3     [1 girl, blue eyes, blue hair, gym uniform, ha...
+4     [1 girl, aqua hair, long hair, skirt, solo, th...
+5     [1 girl, breasts, huge breasts, midriff, neckt...
+6     [1 girl, armor, blue eyes, helmet, lance, long...
+7              [1 girl, dress, solo, white hair, wings]
+8     [1 girl, blue eyes, folded ponytail, school un...
+9     [1 girl, blue eyes, blue hair, bow, day, dress...
+10    [1 girl, alternate costume, black legwear, blo...
+11    [1 girl, bare shoulders, black hair, bowl, bri...
+12    [1 girl, black hair, box, chocolate, dress, fu...
+13    [1 girl, blush, burnt clothes, flight deck, fl...
+14    [1 girl, ahoge, black hair, blush, collarbone,...
+15    [1 girl, ahoge, alternate costume, barefoot, b...
+16    [1 girl,  q, ahoge, blush, boots, closed umbre...
+17    [1 girl, belt, black hair, black legwear, brow...
+18    [1 girl, bandana, blue skirt, full body, green...
+19    [1 girl, black legwear, black serafuku, black ...
+20    [1 girl, bandana, black legwear, blue ribbon, ...
+21    [1 girl,  d, anchor, bag, bikini, bracelet, bu...
+22    [1 girl, bad hands, ball, barefoot, beachball,...
+23    [1 girl, belt, black hair, black legwear, blue...
+24    [1 girl, aqua eyes, ascot, boots, brown hair, ...
+25    [1 girl, american flag, blonde hair, blue eyes...
+26    [1 girl, american flag, blonde hair, blue eyes...
+27    [1 boy, 2 girls, comic, doujinshi, greyscale, ...
+28    [1 girl, comic, crazy eyes, greyscale, hat, he...
+29    [1 girl, artist name, bare shoulders, blush, b...
+30    [1 girl, blush, cover, cover page, doujin cove...
+31    [1 girl, aqua eyes, black hair, breasts, cleav...
+32    [1 girl, 2016,  d, alternate breast size, brea...
+33    [1 girl, aqua eyes, bikini bottom, breasts, gl...
+34    [1 girl, alternate skin color, blush, breasts,...
+35    [1 girl, 3d, breasts, chinese clothes, green e...
+36    [1 girl, black hair, black hat, black skirt, b...
+37    [1 other, blonde hair, blue eyes, cape, flower...
+38    [1 girl, black hair, black hat, black legwear,...
+39    [1 girl, alternate breast size, bare shoulders...
+40    [1 girl, black panties, breasts, claws, dress,...
+41    [1 girl, 3d, field, flower, flower field, miku...
+42    [1 girl, bat wings, blue hair, breasts, dress,...
+43    [1 girl, beach, bikini, bikini top, blonde hai...
+44    [1 girl, alternate breast size, blush, breasts...
+45    [1 girl, bandages, bare shoulders, blood, bloo...
+46    [1 girl, all fours, animal ears, bare shoulder...
+47    [1 girl, arm up, gym uniform, long hair, pink ...
+48    [1 girl, black legwear, blush, chibi, detached...
+49    [1 girl, black hair, eyepatch, red eyes, schoo...
+50    [1 boy, barefoot, bed sheet, blue eyes, blush,...
+Name: tags_cat0, dtype: object
+0       []
+1       []
+2       []
+3       []
+4       []
+5       []
+6       []
+7       []
+8       []
+9       []
+10      []
+11      []
+12      []
+13      []
+14      []
+15      []
+16    [ q]
+17      []
+18      []
+19      []
+20      []
+21    [ d]
+22      []
+23    [d ]
+24      []
+25      []
+26      []
+27      []
+28      []
+29      []
+30      []
+31      []
+32    [ d]
+33      []
+34      []
+35    [3d]
+36      []
+37      []
+38      []
+39      []
+40      []
+41    [3d]
+42      []
+43      []
+44      []
+45      []
+46      []
+47      []
+48      []
+49      []
+50      []
+Name: tags_cat0, dtype: object
+No of unique tags in cat 0 after removing less than 2 char tags: 87
+No of unique tags in cat 3 without removing less than 2 char tags: 3156
+0                                    [girls und panzer]
+1                                   [kantai collection]
+2                                              [touhou]
+3                                            [nichijou]
+4                                            [vocaloid]
+5                             [umineko no naku koro ni]
+6                             [neon genesis evangelion]
+7                                        [rozen maiden]
+8                                          [to heart 2]
+9                                              [touhou]
+10                                             [touhou]
+11                                  [kantai collection]
+12                                  [kantai collection]
+13                                  [kantai collection]
+14                                  [kantai collection]
+15                                  [kantai collection]
+16                                  [kantai collection]
+17                                  [kantai collection]
+18                                  [kantai collection]
+19                                  [kantai collection]
+20                                  [kantai collection]
+21                                  [kantai collection]
+22                                  [kantai collection]
+23                                  [kantai collection]
+24                                  [kantai collection]
+25                                  [kantai collection]
+26                                  [kantai collection]
+27                                  [kantai collection]
+28                                             [touhou]
+29                                             [touhou]
+30                                             [touhou]
+31                                  [kantai collection]
+32                                  [kantai collection]
+33                                  [kantai collection]
+34                                  [kantai collection]
+35                                             [touhou]
+36                                  [kantai collection]
+37                    [fate grand order, fate (series)]
+38                                  [kantai collection]
+39                                             [touhou]
+40                                  [kantai collection]
+41                                             [touhou]
+42                                             [touhou]
+43                                             [touhou]
+44                                             [touhou]
+45    [fate apocrypha, fate grand order, fate (series)]
+46                                             [touhou]
+47                                       [rou kyuu bu ]
+48                                           [vocaloid]
+49                                            [another]
+50                         [baka to test to shoukanjuu]
+Name: tags_cat3, dtype: object
+0     []
+1     []
+2     []
+3     []
+4     []
+5     []
+6     []
+7     []
+8     []
+9     []
+10    []
+11    []
+12    []
+13    []
+14    []
+15    []
+16    []
+17    []
+18    []
+19    []
+20    []
+21    []
+22    []
+23    []
+24    []
+25    []
+26    []
+27    []
+28    []
+29    []
+30    []
+31    []
+32    []
+33    []
+34    []
+35    []
+36    []
+37    []
+38    []
+39    []
+40    []
+41    []
+42    []
+43    []
+44    []
+45    []
+46    []
+47    []
+48    []
+49    []
+50    []
+Name: tags_cat3, dtype: object
+No of unique tags in cat 3 after removing less than 2 char tags: 7
+No of unique tags in cat 4 without removing less than 2 char tags: 3437
+0                               [rukuriri]
+1             [haruna (kantai collection)]
+2                    [sukuna shinmyoumaru]
+3                         [naganohara mio]
+4                           [hatsune miku]
+5                     [ushiromiya jessica]
+6                  [souryuu asuka langley]
+7                              [suigintou]
+8                          [komaki manaka]
+9                                  [cirno]
+10                         [maribel hearn]
+11            [mizuho (kantai collection)]
+12            [mizuho (kantai collection)]
+13             [amagi (kantai collection)]
+14          [fujinami (kantai collection)]
+15           [shigure (kantai collection)]
+16         [kiyoshimo (kantai collection)]
+17           [oyashio (kantai collection)]
+18            [akashi (kantai collection)]
+19        [shiratsuyu (kantai collection)]
+20           [asagumo (kantai collection)]
+21          [sazanami (kantai collection)]
+22        [shiratsuyu (kantai collection)]
+23           [asashio (kantai collection)]
+24            [kumano (kantai collection)]
+25              [iowa (kantai collection)]
+26              [iowa (kantai collection)]
+27           [admiral (kantai collection)]
+28                        [komeiji koishi]
+29                         [tatara kogasa]
+30                        [komeiji satori]
+31                     [light cruiser oni]
+32       [prinz eugen (kantai collection)]
+33                   [ta class battleship]
+34       [akitsu maru (kantai collection)]
+35                          [hong meiling]
+36       [akitsu maru (kantai collection)]
+37    [chevalier d'eon (fate grand order)]
+38       [akitsu maru (kantai collection)]
+39                      [houraisan kaguya]
+40                          [seaport hime]
+41                       [flandre scarlet]
+42                       [remilia scarlet]
+43                         [toramaru shou]
+44                        [komeiji satori]
+45      [jack the ripper (fate apocrypha)]
+46                      [imaizumi kagerou]
+47                       [hakamada hinata]
+48                          [hatsune miku]
+49                            [misaki mei]
+50                   [kinoshita hideyoshi]
+Name: tags_cat4, dtype: object
+0     []
+1     []
+2     []
+3     []
+4     []
+5     []
+6     []
+7     []
+8     []
+9     []
+10    []
+11    []
+12    []
+13    []
+14    []
+15    []
+16    []
+17    []
+18    []
+19    []
+20    []
+21    []
+22    []
+23    []
+24    []
+25    []
+26    []
+27    []
+28    []
+29    []
+30    []
+31    []
+32    []
+33    []
+34    []
+35    []
+36    []
+37    []
+38    []
+39    []
+40    []
+41    []
+42    []
+43    []
+44    []
+45    []
+46    []
+47    []
+48    []
+49    []
+50    []
+Name: tags_cat4, dtype: object
+No of unique tags in cat 4 after removing less than 2 char tags: 3
+Length after:  463437
+Original length:  463437
+No of unique tags in cat 0 before removing tags that don't appear at least 2 times: 87
+No of unique tags in cat 0 after removing tags that don't appear at least 2 times: 72
+No of unique tags in cat 3 before removing tags that don't appear at least 2 times: 7
+No of unique tags in cat 3 after removing tags that don't appear at least 2 times: 4
+No of unique tags in cat 4 before removing tags that don't appear at least 2 times: 3
+No of unique tags in cat 4 after removing tags that don't appear at least 2 times: 3
+Length after:  463437

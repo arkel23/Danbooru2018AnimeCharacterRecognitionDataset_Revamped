@@ -1,0 +1,80 @@
+For category "tags_cat0" at tag level:
+No of unique tags: 72
+Total no. of tags: 70218
+ d       32767
+ o       11085
+v         6165
+ 3        3748
+ )        3516
+ p        2751
+ q        1571
+ t        1332
++ +       1002
+3          853
+ m         721
+ (         580
+d          526
+w          506
+ o         429
+@ @        391
+= =        315
+3d         304
+o o        286
+39         217
+=3         150
+c           95
+xd          87
+ i          81
+ n          75
+cd          66
+0 0         62
+ c          60
+h           53
+ x          46
+ad          41
+a           34
+uu          27
+x           25
+dj          22
+no          21
+f6          16
+x x         16
+5           15
+3           14
+x3          14
+ s          13
+va          11
+ 0          10
+ o o         9
+=d           8
+u u          7
+sg           7
+1            6
+2            5
+4            5
++            4
+=o           4
+dx           4
+ =           4
+ 3           3
+t t          3
+ q           3
+v v          3
+=)           2
+=            2
+o 0          2
+s            2
+@            2
++            2
+3 3          2
+pe           2
+t 4          2
+go           2
+a w          2
+c4           2
+Name: tags_cat0, dtype: int64
+Mean, median, and std deviation of tags per tag category (how often each tag is used relative to category):
+988.9859154929577	21.0	4152.77752660952
+
+Mean, median, and std deviation of tags per image per tag category (how many tags per image according to category):
+0.15151574000349563	0.0	0.3860468356051529
