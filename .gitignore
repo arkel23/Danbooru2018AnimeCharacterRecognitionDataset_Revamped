@@ -9,6 +9,7 @@ faces/
 min128/
 faces128x128/
 fullShort256/
+compressed/
 *.gz
 **/labels/*_tags.csv
 !**/labels/*.tar.gz
