@@ -240,15 +240,15 @@ black ribbon                       5660
 high heels                         5587
 one side up                        5581
 sweatdrop                          5493
-orange eyes                        5455
 transparent background             5455
+orange eyes                        5455
 looking to the side                5440
 dutch angle                        5429
 cardigan                           5418
 indoors                            5406
 black footwear                     5402
-double bun                         5387
 casual                             5387
+double bun                         5387
 fruit                              5375
 holding weapon                     5373
 blazer                             5373
@@ -315,8 +315,8 @@ suspenders                         4189
 scrunchie                          4174
 looking away                       4143
 thigh boots                        4135
-torn clothes                       4130
 white bikini                       4130
+torn clothes                       4130
 pillow                             4103
 magical girl                       4089
 hand on own chest                  4052
@@ -440,8 +440,8 @@ eyes visible through hair          2720
 black hat                          2720
 paw pose                           2714
 ring                               2714
-strap slip                         2709
 fox ears                           2709
+strap slip                         2709
 frilled dress                      2691
 blue sailor collar                 2684
 brown footwear                     2684
@@ -454,8 +454,8 @@ bikini top                         2621
 looking up                         2611
 bob cut                            2604
 katana                             2596
-finger to mouth                    2588
 lingerie                           2588
+finger to mouth                    2588
 hands                              2584
 wristband                          2582
 musical note                       2566
@@ -490,13 +490,13 @@ wet clothes                        2410
 armband                            2409
 ribbon trimmed sleeves             2395
 happy                              2392
-box                                2385
 bottle                             2385
 mob cap                            2385
+box                                2385
 card (medium)                      2382
 black bra                          2378
-fox tail                           2367
 looking down                       2367
+fox tail                           2367
 santa costume                      2366
 animal print                       2365
 hips                               2359
@@ -570,8 +570,8 @@ cellphone                          1983
 arms behind head                   1981
 yukata                             1972
 tray                               1970
-holding food                       1967
 frilled bikini                     1967
+holding food                       1967
 pencil skirt                       1965
 fire                               1962
 snow                               1955
@@ -584,10 +584,10 @@ cover page                         1909
 rifle                              1906
 mini hat                           1901
 sheath                             1898
-name tag                           1896
 curtains                           1896
-under rim eyewear                  1894
+name tag                           1896
 pink dress                         1894
+under rim eyewear                  1894
 long legs                          1892
 cropped legs                       1888
 formal                             1880
@@ -598,8 +598,8 @@ covering                           1871
 extra ears                         1865
 grey skirt                         1862
 star (sky)                         1850
-hat bow                            1849
 black wings                        1849
+hat bow                            1849
 comic                              1839
 ball                               1838
 spread legs                        1833
@@ -619,17 +619,17 @@ snake                              1799
 candy                              1786
 hands together                     1782
 enmaided                           1781
+mole under mouth                   1778
 cameltoe                           1778
 straight hair                      1778
-mole under mouth                   1778
 anchor                             1777
 skirt hold                         1776
 ice                                1775
 fishnets                           1770
-cat                                1767
 profile                            1767
-legs apart                         1766
+cat                                1767
 red flower                         1766
+legs apart                         1766
 table                              1764
 side braid                         1759
 lifted by self                     1758
@@ -658,8 +658,8 @@ knees together feet apart          1675
 green background                   1672
 tanline                            1666
 dress lift                         1666
-pale skin                          1665
 front tie bikini                   1665
+pale skin                          1665
 pink skirt                         1664
 bow (weapon)                       1660
 hair rings                         1657
@@ -669,8 +669,8 @@ pelvic curtain                     1644
 backlighting                       1642
 sailor hat                         1638
 muneate                            1634
-anchor symbol                      1633
 spread arms                        1633
+anchor symbol                      1633
 handgun                            1630
 clenched hands                     1625
 pocket                             1622
@@ -679,30 +679,30 @@ holding gun                        1616
 epaulettes                         1613
 salute                             1610
 purple dress                       1609
-round teeth                        1607
 mask                               1607
-denim shorts                       1602
+round teeth                        1607
 broom                              1602
+denim shorts                       1602
 blue jacket                        1599
 child                              1596
 bloomers                           1574
 thick eyebrows                     1570
 bunny girl                         1569
 shawl                              1562
-facing viewer                      1555
 androgynous                        1555
+facing viewer                      1555
 tabard                             1554
 single glove                       1554
 shiny clothes                      1551
 bottomless                         1545
-genderswap                         1527
 zipper                             1527
+genderswap                         1527
 adjusting eyewear                  1525
 new year                           1521
 french braid                       1511
 legs together                      1508
-long skirt                         1506
 hairpin                            1506
+long skirt                         1506
 red legwear                        1505
 plant                              1501
 sarashi                            1498
@@ -728,11 +728,11 @@ green bow                          1438
 suit                               1437
 nature                             1435
 school bag                         1433
-dual wielding                      1432
 frog                               1432
+dual wielding                      1432
 black background                   1432
-miko                               1431
 sneakers                           1431
+miko                               1431
 geta                               1429
 gothic lolita                      1428
 red background                     1427
@@ -747,13 +747,13 @@ red bikini                         1392
 halter top                         1388
 long fingernails                   1381
 couch                              1375
-starry sky                         1368
-taut clothes                       1368
 black framed eyewear               1368
+taut clothes                       1368
+starry sky                         1368
 pink lips                          1367
 holding book                       1364
-pocky                              1361
 white bra                          1361
+pocky                              1361
 leg hug                            1357
 o ring                             1357
 eyeball                            1356
@@ -766,29 +766,29 @@ crescent hair ornament             1344
 out of frame                       1337
 crossdressing                      1336
 pink ribbon                        1331
-pout                               1323
 yellow bow                         1323
+pout                               1323
 outline                            1316
-pajamas                            1313
 peach                              1313
+pajamas                            1313
 cuffs                              1312
 teddy bear                         1312
 grey legwear                       1307
 purple skirt                       1306
 bowl                               1303
 black shorts                       1298
-handbag                            1293
 partially submerged                1293
+handbag                            1293
 low ponytail                       1289
-red nails                          1285
 micro bikini                       1285
+red nails                          1285
 blue swimsuit                      1282
 red gloves                         1279
 hand in pocket                     1279
-sleeves past fingers               1272
 chocolate                          1272
-snowing                            1269
+sleeves past fingers               1272
 asymmetrical wings                 1269
+snowing                            1269
 hair bell                          1268
 ofuda                              1267
 ground vehicle                     1255
@@ -803,8 +803,8 @@ sportswear                         1240
 tied hair                          1233
 gauntlets                          1230
 guitar                             1227
-nose                               1218
 genderswap (mtf)                   1218
+nose                               1218
 underbust                          1214
 angry                              1211
 white jacket                       1209
@@ -819,16 +819,16 @@ black choker                       1191
 strawberry                         1189
 alternate eye color                1187
 chestnut mouth                     1185
-lollipop                           1184
 steam                              1184
+lollipop                           1184
 armlet                             1179
 shaded face                        1174
 smirk                              1173
-tasuki                             1172
 hand on own cheek                  1172
+tasuki                             1172
 serious                            1171
-eighth note                        1169
 plate                              1169
+eighth note                        1169
 high waist skirt                   1166
 forehead                           1166
 hakama skirt                       1166
@@ -839,8 +839,8 @@ pom poms                           1159
 otonokizaka school uniform         1158
 unzipped                           1157
 sarong                             1153
-hair tie                           1151
 chin rest                          1151
+hair tie                           1151
 petticoat                          1150
 pilot suit                         1148
 green dress                        1147
@@ -849,21 +849,21 @@ wedding band                       1143
 bunny                              1136
 arrow                              1132
 spear                              1131
-fur collar                         1130
-waving                             1130
 white scarf                        1130
+waving                             1130
+fur collar                         1130
 bubble                             1125
 thick thighs                       1124
-animal ear fluff                   1117
 partly fingerless gloves           1117
+animal ear fluff                   1117
 arms at sides                      1114
 chopsticks                         1112
-whisker markings                   1106
 string bikini                      1106
+whisker markings                   1106
 winter clothes                     1103
 strap gap                          1099
-polka dot background               1098
 pink flower                        1098
+polka dot background               1098
 marker (medium)                    1097
 cosplay                            1095
 rei no himo                        1095
@@ -882,20 +882,20 @@ fish                               1068
 shinkaisei kan                     1067
 pose                               1066
 yellow ribbon                      1065
-pink nails                         1064
-gift box                           1064
 outside border                     1064
 upper teeth                        1064
+gift box                           1064
+pink nails                         1064
 ooarai school uniform              1060
 glowing eyes                       1056
 doujin cover                       1054
 polka dot bow                      1046
 knee up                            1039
-mouse ears                         1038
 argyle                             1038
+mouse ears                         1038
 forest                             1037
-light rays                         1036
 alternate color                    1036
+light rays                         1036
 ice cream                          1034
 silver eyes                        1033
 number                             1031
@@ -903,9 +903,9 @@ cat lingerie                       1030
 beads                              1029
 sweater dress                      1023
 fairy wings                        1023
-stuffed bunny                      1022
-suspender skirt                    1022
 realistic                          1022
+suspender skirt                    1022
+stuffed bunny                      1022
 pink neckwear                      1020
 horn                               1020
 music                              1019
@@ -918,8 +918,8 @@ curly hair                         1003
 curvy                              1002
 crying with eyes open              1000
 red jacket                          999
-sack                                997
 beachball                           997
+sack                                997
 building                            996
 water drop                          995
 demon girl                          994
@@ -928,8 +928,8 @@ orange background                   991
 sun                                 989
 facepaint                           988
 watch                               987
-checkered background                985
 hand on own face                    985
+checkered background                985
 trembling                           982
 heart of string                     981
 motor vehicle                       980
@@ -952,30 +952,30 @@ orange bow                          953
 top hat                             953
 grey shirt                          951
 mittens                             948
-indian style                        945
 pink bra                            945
+indian style                        945
 arm behind head                     944
 surprised                           943
 smoke                               942
 white neckwear                      937
 snowflakes                          936
-red hakama                          934
 hand on headwear                    934
+red hakama                          934
 smartphone                          933
 sheathed                            932
 legs up                             931
 wand                                929
 saliva                              927
-hibiscus                            920
 purple ribbon                       920
+hibiscus                            920
 multiple girls                      916
 apple                               911
 arm ribbon                          911
 card                                910
 iron cross                          910
-empty eyes                          909
 dog tail                            909
 brown jacket                        909
+empty eyes                          909
 rigging                             906
 anchor hair ornament                904
 bad anatomy                         903
@@ -984,9 +984,9 @@ green neckwear                      901
 blue                                899
 pinafore dress                      898
 plump                               896
-bandaid                             895
-belt buckle                         895
 star shaped pupils                  895
+belt buckle                         895
+bandaid                             895
 bandaged arm                        891
 hair stick                          891
 drink                               890
@@ -995,8 +995,8 @@ can                                 889
 sports bra                          888
 short kimono                        887
 style parody                        884
-ribbon choker                       883
 feathered wings                     883
+ribbon choker                       883
 nurse                               882
 spoken heart                        882
 demon wings                         880
@@ -1316,8 +1316,8 @@ transparent          6081
 leaf                 6064
 armor                6061
 ring                 6058
-casual               6015
 fruit                6015
+casual               6015
 hoodie               5896
 heels                5811
 fox                  5800
@@ -1338,8 +1338,8 @@ adapted              5408
 indoors              5406
 tone                 5400
 sparkle              5345
-pom                  5317
 drill                5317
+pom                  5317
 headband             5227
 card                 5220
 obi                  5194
@@ -1374,14 +1374,14 @@ lolita               4609
 depth                4605
 half                 4601
 bunnysuit            4571
-anchor               4524
 magical              4524
+anchor               4524
 fan                  4517
 floating             4507
 blood                4505
 halterneck           4431
-clenched             4404
 suit                 4404
+clenched             4404
 chain                4393
 glowing              4388
 cut                  4375
@@ -1405,8 +1405,8 @@ english              4019
 highleg              3986
 birthday             3969
 pointing             3968
-tokin                3958
 swept                3958
+tokin                3958
 ball                 3946
 ribbed               3937
 expressionless       3921
@@ -1465,8 +1465,8 @@ demon                3216
 impossible           3207
 scar                 3181
 gym                  3147
-otoko                3144
 ko                   3144
+otoko                3144
 wedding              3137
 snake                3127
 veil                 3123
@@ -1529,8 +1529,8 @@ cloudy               2491
 intakes              2479
 portrait             2473
 tray                 2461
-t                    2459
 style                2459
+t                    2459
 jingle               2457
 bridal               2447
 new                  2431
@@ -1551,8 +1551,8 @@ lens                 2332
 younger              2330
 cannon               2326
 year                 2322
-upskirt              2321
 contrapposto         2321
+upskirt              2321
 updo                 2320
 broom                2302
 tress                2301
@@ -1560,8 +1560,8 @@ object               2294
 flare                2293
 mouse                2293
 colored              2288
-starry               2264
 seiza                2264
+starry               2264
 virtual              2257
 youtuber             2257
 by                   2253
@@ -1577,8 +1577,8 @@ staff                2174
 fire                 2169
 index                2159
 messy                2156
-glove                2152
 medium               2152
+glove                2152
 chocolate            2147
 (clothes)            2143
 nurse                2140
@@ -1600,8 +1600,8 @@ tiara                2054
 girls                2050
                      2045
 older                2033
-paper                2027
 winter               2027
+paper                2027
 layered              2025
 bouquet              2014
 locks                2013
@@ -1615,9 +1615,9 @@ length               1959
 sheath               1955
 comic                1944
 desk                 1941
-streaked             1940
-round                1940
 center               1940
+round                1940
+streaked             1940
 tag                  1930
 eighth               1917
 chin                 1915
@@ -1645,8 +1645,8 @@ straight             1780
 serval               1779
 cameltoe             1778
 fishnets             1770
-straw                1768
 emblem               1768
+straw                1768
 bear                 1767
 rings                1752
 french               1749
@@ -1684,21 +1684,21 @@ epaulettes           1613
 sarashi              1611
 couch                1571
 lowleg               1568
+tabard               1558
 strawberry           1558
 plant                1558
-tabard               1558
 androgynous          1555
 bottomless           1545
 american             1534
 lantern              1529
 sunset               1509
-breath               1506
 hairpin              1506
+breath               1506
 band                 1503
 close                1494
 hime                 1491
-pockets              1491
 pajamas              1491
+pockets              1491
 skull                1485
 submerged            1485
 sundress             1462
@@ -1732,8 +1732,8 @@ pout                 1323
 convenient           1321
 fairy                1320
 teddy                1316
-pads                 1313
 cloak                1313
+pads                 1313
 circle               1311
 bandaged             1302
 bamboo               1299
@@ -1777,8 +1777,8 @@ logo                 1176
 shaded               1174
 shoe                 1173
 smirk                1173
-tasuki               1172
 oversized            1172
+tasuki               1172
 serious              1171
 poms                 1169
 pen                  1165
@@ -1796,10 +1796,10 @@ outside              1131
 doll                 1128
 markings             1122
 monster              1120
-fluff                1117
 partly               1117
-jeans                1116
+fluff                1117
 revealing            1116
+jeans                1116
 sides                1114
 game                 1111
 suspender            1110
@@ -1807,15 +1807,15 @@ st                   1109
 wand                 1107
 whisker              1106
 helmet               1104
-cosplay              1095
-himo                 1095
 microskirt           1095
+himo                 1095
 autumn               1095
+cosplay              1095
 pool                 1085
 crystal              1079
 sports               1068
-shinkaisei           1067
 kan                  1067
+shinkaisei           1067
 doujin               1060
 oriental             1059
 sack                 1057
@@ -1832,9 +1832,9 @@ beachball            1028
 drink                1026
 mittens              1026
 realistic            1022
+fork                 1014
 grab                 1014
 fence                1014
-fork                 1014
 clasped              1012
 building             1010
 tiger                1007
@@ -1857,14 +1857,14 @@ jitome                976
 shield                974
 jack                  974
 heel                  968
-headpiece             966
 key                   966
+headpiece             966
 smoke                 961
 indian                960
 bound                 959
 shade                 958
-surprised             954
 sleeve                954
+surprised             954
 mechanical            952
 sign                  951
 smartphone            950
@@ -1888,8 +1888,8 @@ riding                904
 horizon               898
 pinafore              898
 plump                 896
-stance                893
 de                    893
+stance                893
 (symbol)              889
 idol                  887
 across                886
@@ -1914,17 +1914,17 @@ gloriana's            848
 leaves                846
 pistol                844
 silhouette            843
-garters               838
 tengu                 838
+garters               838
 fighting              836
-walking               834
 huge                  834
+walking               834
 spider                827
-draph                 824
-hachimaki             824
 bucket                824
-controller            816
+hachimaki             824
+draph                 824
 arched                816
+controller            816
 clock                 813
 armored               813
 cigarette             811
@@ -1948,19 +1948,19 @@ parasol               762
 middle                761
 branch                759
 watercolor            759
-bright                756
 singing               756
+bright                756
 elf                   751
 obake                 750
 stretch               749
 criss                 746
 bangle                745
-wagashi               744
 karakasa              744
+wagashi               744
 bags                  743
 o'                    739
-(style)               736
 cow                   736
+(style)               736
 running               735
 blindfold             734
 overhang              732
@@ -1988,25 +1988,25 @@ claw                  685
 tying                 685
 randoseru             684
 triangular            683
-stand                 682
-flight                682
 injury                682
+flight                682
+stand                 682
 watermelon            680
 sakazuki              680
-reverse               678
 drooling              678
-clover                678
-tentacle              678
 vein                  678
 anger                 678
+reverse               678
+tentacle              678
+clover                678
 deck                  676
 robot                 674
 discipline            672
 rainbow               662
 slippers              659
+ryouou                653
 gold                  653
 camouflage            653
-ryouou                653
 german                652
 electricity           648
 wreath                641
@@ -2133,8 +2133,8 @@ nijisanji                                                         649
 maria sama ga miteru                                              633
 tengen toppa gurren lagann                                        625
 final fantasy xiv                                                 620
-kobayashi san chi no maidragon                                    615
 guilty crown                                                      615
+kobayashi san chi no maidragon                                    615
 nier automata                                                     614
 kill la kill                                                      613
 gundam build fighters                                             604
@@ -2145,8 +2145,8 @@ mahou shoujo lyrical nanoha a's                                   595
 new super mario bros u deluxe                                     581
 kono subarashii sekai ni shukufuku wo                             575
 ano hi mita hana no namae wo bokutachi wa mada shiranai           572
-senki zesshou symphogear                                          568
 yahari ore no seishun lovecome wa machigatteiru                   568
+senki zesshou symphogear                                          568
 axis powers hetalia                                               567
 idolmaster 2                                                      566
 inazuma eleven                                                    555
@@ -2155,8 +2155,8 @@ rebuild of evangelion                                             553
 koha ace                                                          547
 kara no kyoukai                                                   545
 love plus                                                         540
-dead or alive                                                     538
 gundam 00                                                         538
+dead or alive                                                     538
 hidamari sketch                                                   531
 os tan                                                            527
 boku no hero academia                                             520
@@ -2166,10 +2166,10 @@ naruto (series)                                                   515
 xenoblade (series)                                                508
 spice and wolf                                                    505
 dragon quest                                                      501
-vampire (game)                                                    492
 idolmaster dearly stars                                           492
-hyouka                                                            490
+vampire (game)                                                    492
 nisemonogatari                                                    490
+hyouka                                                            490
 rockman                                                           488
 zero no tsukaima                                                  487
 xenoblade 2                                                       487
@@ -2183,8 +2183,8 @@ project diva (series)                                             449
 splatoon (series)                                                 445
 sword art online code register                                    441
 kannagi                                                           440
-naruto                                                            434
 mahou sensei negima                                               434
+naruto                                                            434
 kagerou project                                                   433
 lawson                                                            427
 hibike euphonium                                                  421
@@ -2193,8 +2193,8 @@ metroid                                                           419
 senran kagura shoujo tachi no shin'ei                             413
 tales of vesperia                                                 413
 sayonara zetsubou sensei                                          409
-phantasy star                                                     406
 phantasy star online 2                                            406
+phantasy star                                                     406
 new game                                                          404
 ryuuou no oshigoto                                                403
 fate kaleid liner prisma illya                                    401
@@ -2209,8 +2209,8 @@ a i channel                                                       364
 fullmetal alchemist                                               359
 panty stocking with garterbelt                                    357
 brave witches                                                     357
-dagashi kashi                                                     356
 tekken                                                            356
+dagashi kashi                                                     356
 atelier (series)                                                  347
 fire emblem monshou no nazo                                       347
 bang dream                                                        346
@@ -2231,29 +2231,29 @@ ragnarok online                                                   308
 guilty gear xrd                                                   304
 aria                                                              301
 doki doki literature club                                         301
-gabriel dropout                                                   297
 shakugan no shana                                                 297
+gabriel dropout                                                   297
 utau                                                              293
 gintama                                                           292
 sana channel                                                      290
-shirobako                                                         289
 saki achiga hen                                                   289
+shirobako                                                         289
 fate prototype fragments of blue and silver                       288
 hatoba tsugu                                                      288
-tokyo 7th sisters                                                 286
 splatoon 1                                                        286
+tokyo 7th sisters                                                 286
 mirai nikki                                                       282
 gakkou gurashi                                                    279
 unlabeled                                                         277
 blend s                                                           277
-nichijou                                                          275
-haiyore nyaruko san                                               275
 amagi brilliant park                                              275
+haiyore nyaruko san                                               275
+nichijou                                                          275
 kimi kiss                                                         274
 fairy tail                                                        273
 alice in wonderland                                               269
-bishoujo senshi sailor moon                                       267
 koutetsujou no kabaneri                                           267
+bishoujo senshi sailor moon                                       267
 yuri on ice                                                       265
 utawareru mono                                                    263
 pokemon bw                                                        263
@@ -2273,58 +2273,58 @@ ikkitousen                                                        239
 sister princess                                                   239
 go princess precure                                               238
 disgaea                                                           236
-elsword                                                           233
 fire emblem akatsuki no megami                                    233
-pokemon (anime)                                                   232
+elsword                                                           233
 watashi ga motenai no wa dou kangaetemo omaera ga warui           232
+pokemon (anime)                                                   232
+one punch man                                                     230
 fire emblem fuuin no tsurugi                                      230
 quiz magic academy                                                230
-one punch man                                                     230
 gundam seed destiny                                               228
 galaxy angel                                                      227
 suite precure                                                     227
-new horizon                                                       225
 ano natsu de matteru                                              225
 megami                                                            225
+new horizon                                                       225
 gekkan shoujo nozaki kun                                          223
 zombie land saga                                                  223
-dragon ball z                                                     222
 houseki no kuni                                                   222
+dragon ball z                                                     222
 denpa onna to seishun otoko                                       221
 violet evergarden                                                 219
 final fantasy tactics                                             217
-tales of graces                                                   216
 kami nomi zo shiru sekai                                          216
 charlotte (anime)                                                 216
-puzzle dragons                                                    212
+tales of graces                                                   216
 bleach                                                            212
+puzzle dragons                                                    212
 tera online                                                       211
 hataraku saibou                                                   210
-yume nikki                                                        209
 osomatsu san                                                      209
+yume nikki                                                        209
 black rock shooter                                                207
 maoyuu maou yuusha                                                206
 senjou no valkyria                                                206
 god eater                                                         206
+hinata channel                                                    205
 fire emblem souen no kiseki                                       205
 m u g e n                                                         205
-hinata channel                                                    205
-monster musume no iru nichijou                                    204
 wild arms                                                         204
+monster musume no iru nichijou                                    204
 aoki hagane no arpeggio                                           202
-azumanga daiou                                                    199
 street fighter iv (series)                                        199
+azumanga daiou                                                    199
 honkai (series)                                                   199
 katawa shoujo                                                     197
 high school fleet                                                 193
-to love ru darkness                                               192
 rockman (classic)                                                 192
-tales of zestiria                                                 190
+to love ru darkness                                               192
 eureka seven (series)                                             190
-mahou tsukai no yoru                                              189
-hataraku maou sama                                                189
-street fighter v                                                  189
+tales of zestiria                                                 190
 new danganronpa v3                                                189
+street fighter v                                                  189
+hataraku maou sama                                                189
+mahou tsukai no yoru                                              189
 musaigen no phantom world                                         187
 super smash bros                                                  187
 hanasaku iroha                                                    186
@@ -2341,12 +2341,12 @@ occultic nine                                                     177
 ghost in the shell                                                177
 beatmania                                                         177
 stone ocean                                                       176
-magi the labyrinth of magic                                       175
 dc comics                                                         175
+magi the labyrinth of magic                                       175
 capcom fighting jam                                               174
 durarara                                                          173
-non non biyori                                                    172
 kyoukai no kanata                                                 172
+non non biyori                                                    172
 yes precure 5                                                     171
 frozen (disney)                                                   170
 pokemon dppt                                                      170
@@ -2354,671 +2354,671 @@ minami ke                                                         170
 my hime                                                           170
 star ocean                                                        168
 final fantasy iv                                                  167
+happinesscharge precure                                           166
+inazuma eleven go chrono stone                                    166
 jigoku shoujo                                                     166
 fatal fury                                                        166
-inazuma eleven go chrono stone                                    166
-happinesscharge precure                                           166
-nanatsu no taizai                                                 165
 tales of xillia                                                   165
+nanatsu no taizai                                                 165
 kimi no na wa                                                     165
 benghuai xueyuan                                                  164
-final fantasy vi                                                  163
 princess principal                                                163
+final fantasy vi                                                  163
 dead or alive 5                                                   162
-soulcalibur                                                       161
 ichigo mashimaro                                                  161
 breath of fire                                                    161
+soulcalibur                                                       161
 pokemon oras                                                      160
 kyoukaisenjou no horizon                                          159
 shokugeki no souma                                                159
 final fantasy xiii                                                159
 strike the blood                                                  158
 fire emblem seima no kouseki                                      157
+futari wa precure                                                 156
 no game no life                                                   156
 urusei yatsura                                                    156
-futari wa precure                                                 156
 seishun buta yarou                                                155
-beatmania iidx                                                    154
 world is mine (vocaloid)                                          154
+beatmania iidx                                                    154
 akemiho tabi nikki                                                153
 pixiv                                                             153
 gj bu                                                             152
-yuusha de aru                                                     151
 yuuki yuuna wa yuusha de aru                                      151
+yuusha de aru                                                     151
 dorei to no seikatsu teaching feeling                             150
+black lagoon                                                      148
 idolmaster live for you                                           148
 the legend of zelda breath of the wild                            148
-black lagoon                                                      148
 naruto shippuuden                                                 146
-saya no uta                                                       146
 gundam tekketsu no orphans                                        146
+saya no uta                                                       146
 tales of the abyss                                                145
 snk                                                               144
-monster hunter                                                    144
 owari no seraph                                                   144
+monster hunter                                                    144
 dennou shoujo youtuber shiro                                      142
-mikakunin de shinkoukei                                           139
-himouto umaru chan                                                139
-world cup                                                         139
 eiyuu densetsu                                                    139
+himouto umaru chan                                                139
+mikakunin de shinkoukei                                           139
+world cup                                                         139
 idolmaster side m                                                 138
-honkai impact 3                                                   138
 fire emblem echoes mou hitori no eiyuuou                          138
+honkai impact 3                                                   138
 gosick                                                            137
 final fantasy ix                                                  136
-final fantasy x                                                   135
 shuffle                                                           135
+final fantasy x                                                   135
+kill me baby                                                      134
 baka to test to shoukanjuu                                        134
 ijiranaide nagatoro san                                           134
-kill me baby                                                      134
 senran kagura shinovi versus                                      133
-resident evil                                                     130
-soul eater                                                        130
 tales of symphonia                                                130
+soul eater                                                        130
+resident evil                                                     130
 samurai spirits                                                   129
 dennou coil                                                       127
-oshiete galko chan                                                125
 shin jigen game neptune vii                                       125
+oshiete galko chan                                                125
 divine gate                                                       124
-blazblue chronophantasma                                          124
 bamboo blade                                                      124
 kidou senkan nadesico                                             124
+blazblue chronophantasma                                          124
 di gi charat                                                      122
+evangelion 3 0 you can (not) redo                                 121
 senjou no valkyria 1                                              121
 dango daikazoku                                                   121
-evangelion 3 0 you can (not) redo                                 121
 sekaiju no meikyuu                                                120
 da capo                                                           120
 seiken densetsu 3                                                 119
 seiken densetsu                                                   119
 sakura taisen                                                     119
 pokemon xy                                                        118
-happiness                                                         116
 dream c club (series)                                             116
-karakai jouzu no takagi san                                       116
+happiness                                                         116
 tokyo ghoul                                                       116
+karakai jouzu no takagi san                                       116
 yosuga no sora                                                    116
 dream c club                                                      115
-uchuu senkan yamato                                               114
-macross delta                                                     114
 dragon's crown                                                    114
 shirokami project                                                 114
-the legend of zelda twilight princess                             113
+macross delta                                                     114
+uchuu senkan yamato                                               114
 little red riding hood                                            113
 aquarion (series)                                                 113
+the legend of zelda twilight princess                             113
 aquarion evol                                                     112
 accel world                                                       112
-nekomonogatari                                                    110
 ranma 1 2                                                         110
+nekomonogatari                                                    110
+star ocean till the end of time                                   109
 kami jigen game neptune v                                         109
 street fighter zero (series)                                      109
-star ocean till the end of time                                   109
 aikatsu stars                                                     108
 school rumble                                                     107
 the legend of zelda ocarina of time                               107
-hunter x hunter                                                   106
 fate strange fake                                                 106
+splatoon 2                                                        106
+hunter x hunter                                                   106
 mahou shoujo lyrical nanoha vivid                                 106
 persona 3 portable                                                106
-splatoon 2                                                        106
-project diva 2nd                                                  105
 show by rock                                                      105
+project diva 2nd                                                  105
 queen's blade                                                     105
-kimi ga nozomu eien                                               104
-rewrite                                                           104
 dragon quest iv                                                   104
 shigatsu wa kimi no uso                                           104
-gegege no kitarou                                                 104
-project diva f                                                    104
 fushigi no umi no nadia                                           104
-diamond wa kudakenai                                              104
+project diva f                                                    104
+kimi ga nozomu eien                                               104
+gegege no kitarou                                                 104
 nyantype                                                          104
-fate extella                                                      103
+diamond wa kudakenai                                              104
+rewrite                                                           104
+the legend of zelda skyward sword                                 103
 super robot wars                                                  103
 rinne no lagrange                                                 103
-shadowverse                                                       103
-the legend of zelda skyward sword                                 103
 ar tonelico                                                       103
+fate extella                                                      103
+shadowverse                                                       103
 puyopuyo                                                          102
 uchuu senkan yamato 2199                                          102
 c c lemon                                                         102
+hacka doll                                                        101
 mirai akari project                                               101
 rockman dash                                                      101
-hacka doll                                                        101
 a channel                                                         100
-pokemon hgss                                                       99
 dungeon and fighter                                                99
-kumamiko                                                           98
-another                                                            98
+pokemon hgss                                                       99
 undertale                                                          98
+another                                                            98
+kumamiko                                                           98
 wild arms 2                                                        97
 katekyo hitman reborn                                              97
 goblin slayer                                                      97
 four goddesses online cyber dimension neptune                      97
 nippon professional baseball                                       96
+persona 4 the ultimate in mayonaka arena                           95
 idolmaster movie                                                   95
-final fantasy viii                                                 95
 closers                                                            95
 zoids                                                              95
-persona 4 the ultimate in mayonaka arena                           95
+final fantasy viii                                                 95
 overlord (maruyama)                                                94
-noble witches                                                      93
+xblaze                                                             93
+odin sphere                                                        93
 omamori himari                                                     93
 yuu gi ou duel monsters                                            93
 zoids genesis                                                      93
-odin sphere                                                        93
-god eater burst                                                    93
 pripara                                                            93
-gundam zz                                                          93
 blade soul                                                         93
-xblaze                                                             93
-serial experiments lain                                            92
+gundam zz                                                          93
+god eater burst                                                    93
+noble witches                                                      93
 breath of fire ii                                                  92
+serial experiments lain                                            92
 kanpani girls                                                      91
 pokemon go                                                         91
-pretty (series)                                                    90
-getsuyoubi no tawawa                                               90
 akame ga kill                                                      90
-yuu gi ou arc v                                                    89
+getsuyoubi no tawawa                                               90
+pretty (series)                                                    90
 dragon ball (classic)                                              89
-inuyasha                                                           88
+yuu gi ou arc v                                                    89
 final fantasy v                                                    88
 urara meirochou                                                    88
 ryuuko no ken                                                      88
+inuyasha                                                           88
+under night in birth                                               87
 fresh precure                                                      87
+yoake mae yori ruri iro na                                         87
 summon night                                                       87
 tantei opera milky holmes                                          87
-yoake mae yori ruri iro na                                         87
-under night in birth                                               87
 suigetsu                                                           86
 hitsugi no chaika                                                  86
 gundam unicorn                                                     86
-steel ball run                                                     84
-xenosaga                                                           84
 utawareru mono itsuwari no kamen                                   84
+xenosaga                                                           84
+steel ball run                                                     84
 phantom blood                                                      83
-final fantasy xv                                                   82
 haibane renmei                                                     82
 atelier totori                                                     82
-high school dxd infinity                                           81
+final fantasy xv                                                   82
 yukijirushi                                                        81
-summon night 3                                                     81
-chobits                                                            81
 kantai collection (anime)                                          81
-project diva                                                       81
+high school dxd infinity                                           81
+summon night 3                                                     81
 yotsubato                                                          81
+chobits                                                            81
+project diva                                                       81
+sora no otoshimono                                                 79
+final fantasy xii                                                  79
 dragon quest v                                                     79
 ookami san                                                         79
-final fantasy xii                                                  79
-sora no otoshimono                                                 79
-atelier rorona                                                     78
 rou kyuu bu                                                        78
-owarimonogatari                                                    77
+atelier rorona                                                     78
+curiosities of lotus asia                                          77
 kizumonogatari                                                     77
-rockman zx                                                         77
-microsoft                                                          77
+magical mirai (vocaloid)                                           77
 cu no                                                              77
 wild arms 3                                                        77
-curiosities of lotus asia                                          77
-magical mirai (vocaloid)                                           77
-kemomimi oukoku kokuei housou                                      76
+rockman zx                                                         77
+microsoft                                                          77
+owarimonogatari                                                    77
 mitsudomoe                                                         76
 atelier meruru                                                     76
-choujigen game neptune                                             75
+kemomimi oukoku kokuei housou                                      76
 bayonetta                                                          75
-fire emblem seisen no keifu                                        74
+choujigen game neptune                                             75
 harry potter                                                       74
 gatchaman crowds                                                   74
-demi chan wa kataritai                                             73
-vocanese                                                           73
-sakura sou no pet na kanojo                                        73
+fire emblem seisen no keifu                                        74
 tales of berseria                                                  73
+sakura sou no pet na kanojo                                        73
+vocanese                                                           73
+demi chan wa kataritai                                             73
 mermaid melody pichi pichi pitch                                   73
-senran kagura new wave                                             72
 final fantasy vii advent children                                  72
+senran kagura new wave                                             72
 full metal panic                                                   71
 capcom                                                             71
-devil may cry                                                      70
-shinrabanshou                                                      70
 dragon quest xi                                                    70
+shinrabanshou                                                      70
 blazblue central fiction                                           70
-fire emblem cipher                                                 69
-super smash bros ultimate                                          69
+devil may cry                                                      70
 saga                                                               69
-taimanin (series)                                                  69
+super smash bros ultimate                                          69
 super blackjack                                                    69
+fire emblem cipher                                                 69
+taimanin (series)                                                  69
 saga frontier 2                                                    68
+girlfriend (kari)                                                  68
 koumajou densetsu                                                  68
 da capo i                                                          68
-girlfriend (kari)                                                  68
+pani poni dash                                                     67
 gyakuten saiban                                                    67
 k on movie                                                         67
-pani poni dash                                                     67
 ghost in the shell stand alone complex                             67
+soukou akki muramasa                                               66
+tonari no kyuuketsuki san                                          66
+pokemon (classic anime)                                            66
+gunslinger girl                                                    66
 umamusume                                                          66
 dragon quest ii                                                    66
-gunslinger girl                                                    66
-pokemon (classic anime)                                            66
-tonari no kyuuketsuki san                                          66
-soukou akki muramasa                                               66
 highschool of the dead                                             65
 kamen rider                                                        65
-suisei no gargantia                                                64
 school days                                                        64
-yuu gi ou 5d's                                                     64
+suisei no gargantia                                                64
 uta no prince sama                                                 64
-ga rei                                                             63
+yuu gi ou 5d's                                                     64
 cardfight vanguard                                                 63
-makai senki disgaea                                                63
 true tears                                                         63
+ga rei                                                             63
+makai senki disgaea                                                63
 skullgirls                                                         63
 seto no hanayome                                                   62
+gake no ue no ponyo                                                62
+wonder festival                                                    62
 my otome                                                           62
 rokudenashi majutsu koushi to akashic record                       62
-wonder festival                                                    62
-gake no ue no ponyo                                                62
-hugtto precure                                                     61
-silverlight                                                        61
-fire emblem shin ankoku ryuu to hikari no tsurugi                  61
-youjo senki                                                        61
 ga rei zero                                                        61
+fire emblem shin ankoku ryuu to hikari no tsurugi                  61
+hugtto precure                                                     61
+youjo senki                                                        61
+silverlight                                                        61
 princess principal game of mission                                 61
 kingdom hearts ii                                                  60
-rosario+vampire                                                    59
-shinkyoku soukai polyphonica                                       59
-my little pony                                                     59
-avatar (series)                                                    59
-aa megami sama                                                     59
 to heart 2 ad                                                      59
+aa megami sama                                                     59
 the legend of korra                                                59
+rosario+vampire                                                    59
 ensemble stars                                                     59
-gensou suikoden                                                    58
+avatar (series)                                                    59
+my little pony                                                     59
+shinkyoku soukai polyphonica                                       59
 xblaze code embryo                                                 58
-shugo chara                                                        58
 melonbooks                                                         58
+shugo chara                                                        58
+gensou suikoden                                                    58
 nurarihyon no mago                                                 57
-zelda musou                                                        57
-nagato yuki chan no shoushitsu                                     57
-ben tou                                                            57
-komi san wa komyushou desu                                         57
 pokemon frlg                                                       57
+ben tou                                                            57
 makai senki disgaea 3                                              57
-kodomo no jikan                                                    57
+zelda musou                                                        57
+komi san wa komyushou desu                                         57
 soul worker                                                        57
-magia record mahou shoujo madoka magica gaiden                     56
-sen no kiseki                                                      56
-madou monogatari                                                   56
-my little pony friendship is magic                                 56
+nagato yuki chan no shoushitsu                                     57
+kodomo no jikan                                                    57
 pokemon rgby                                                       56
-silent hill 3                                                      55
+madou monogatari                                                   56
+sen no kiseki                                                      56
+magia record mahou shoujo madoka magica gaiden                     56
+my little pony friendship is magic                                 56
 wonder festival 2007                                               55
-onegai teacher                                                     55
-planetarian                                                        55
-mahoromatic                                                        55
-tasogare otome x amnesia                                           55
-black bullet                                                       55
 arc the lad                                                        55
-tales of symphonia knight of ratatosk                              55
 queen's gate                                                       55
+black bullet                                                       55
+mahoromatic                                                        55
+planetarian                                                        55
+silent hill 3                                                      55
+onegai teacher                                                     55
+tales of symphonia knight of ratatosk                              55
+tasogare otome x amnesia                                           55
+battle tendency                                                    54
+mawaru penguindrum                                                 54
+yama no susume                                                     54
+hai to gensou no grimgar                                           54
+grisaia (series)                                                   54
+masamune kun no revenge                                            54
+nier                                                               54
 grisaia no kajitsu                                                 54
 j league                                                           54
-battle tendency                                                    54
-hai to gensou no grimgar                                           54
-mawaru penguindrum                                                 54
-nier                                                               54
-masamune kun no revenge                                            54
-grisaia (series)                                                   54
-yama no susume                                                     54
+god eater 2 rage burst                                             53
 tsukuyomi moonphase                                                53
 shoujo kakumei utena                                               53
-tamatoys                                                           53
-god eater 2 rage burst                                             53
 da capo ii                                                         53
-uchi no hime sama ga ichiban kawaii                                52
-chrono cross                                                       52
+tamatoys                                                           53
 dragon ball fighterz                                               52
-mashiroiro symphony                                                52
-kono bijutsubu niwa mondai ga aru                                  52
-nintendo                                                           52
 tokimeki memorial                                                  52
+nintendo                                                           52
+chrono cross                                                       52
+kono bijutsubu niwa mondai ga aru                                  52
+uchi no hime sama ga ichiban kawaii                                52
+mashiroiro symphony                                                52
 slow start                                                         52
 type moon                                                          51
-haikyuu                                                            51
-zero no kiseki                                                     51
-2014 fifa world cup                                                51
-kakegurui                                                          51
-ore twintail ni narimasu                                           51
-galaxy angel rune                                                  51
-pokemon rse                                                        51
 dragon quest viii                                                  51
-seiken no blacksmith                                               50
-pokemon special                                                    50
-kobe shinbun                                                       50
+zero no kiseki                                                     51
+kakegurui                                                          51
+pokemon rse                                                        51
+haikyuu                                                            51
+ore twintail ni narimasu                                           51
+2014 fifa world cup                                                51
+galaxy angel rune                                                  51
 coco's                                                             50
-danganronpa 3                                                      50
 metal gear (series)                                                50
 fate extra ccc fox tail                                            50
+pokemon special                                                    50
+isshuukan friends                                                  50
+danganronpa 3                                                      50
+atelier sophie                                                     50
+kobe shinbun                                                       50
+seiken no blacksmith                                               50
 youtube                                                            50
 busou renkin                                                       50
-atelier sophie                                                     50
-isshuukan friends                                                  50
-luigi's mansion                                                    49
-kingdom hearts 358 2 days                                          49
 mabinogi                                                           49
 white album 2                                                      49
-blazblue variable heart                                            49
-atelier escha logy                                                 49
-silent hill                                                        49
-zegapain                                                           49
-death note                                                         49
-yume 2kki                                                          49
-top wo nerae                                                       49
+kingdom hearts 358 2 days                                          49
 street fighter iii (series)                                        49
+death note                                                         49
+blazblue variable heart                                            49
+luigi's mansion                                                    49
+silent hill                                                        49
+atelier escha logy                                                 49
+yume 2kki                                                          49
+satsuriku no tenshi                                                49
+zegapain                                                           49
 hourou musuko                                                      49
 pokemon sm (anime)                                                 49
-satsuriku no tenshi                                                49
-studio ghibli                                                      48
-kirara fantasia                                                    48
-shin sangoku musou                                                 48
-mcdonald's                                                         48
-kuroko no basuke                                                   48
+top wo nerae                                                       49
 re creators                                                        48
+kirara fantasia                                                    48
+kuroko no basuke                                                   48
 forbidden scrollery                                                48
-blame                                                              47
+studio ghibli                                                      48
+mcdonald's                                                         48
+shin sangoku musou                                                 48
 jojolion                                                           47
 persona dancing                                                    47
 gate jieitai ka no chi nite kaku tatakaeri                         47
-arc the lad ii                                                     47
-rockman x                                                          47
 hololive                                                           47
-super mario galaxy                                                 47
+arc the lad ii                                                     47
+blame                                                              47
 mahou girls precure                                                47
+rockman x                                                          47
+super mario galaxy                                                 47
 choujigen game neptune mk2                                         47
 record of lodoss war                                               46
+urban legend in limbo                                              46
 sekaiju no meikyuu 3                                               46
+seitokai no ichizon                                                46
+dragon quest vii                                                   46
+busou shinki                                                       46
+ninja slayer                                                       46
 real life                                                          46
 ouran high school host club                                        46
-busou shinki                                                       46
-dragon quest vii                                                   46
-ninja slayer                                                       46
-urban legend in limbo                                              46
-seitokai no ichizon                                                46
-kotoura san                                                        45
-tokimeki memorial 2                                                45
-heroman                                                            45
-ar tonelico ii                                                     45
-ao no exorcist                                                     45
-mahouka koukou no rettousei                                        45
-7th dragon (series)                                                45
-wii fit                                                            45
 7th dragon 2020                                                    45
+ar tonelico ii                                                     45
+7th dragon (series)                                                45
+kotoura san                                                        45
 koe no katachi                                                     45
-sakura taisen iii                                                  44
-fire emblem shin monshou no nazo                                   44
-sword art online alternative gun gale online                       44
-sinoalice                                                          44
+heroman                                                            45
+tokimeki memorial 2                                                45
+mahouka koukou no rettousei                                        45
+ao no exorcist                                                     45
+wii fit                                                            45
 the ring                                                           44
-dissidia final fantasy                                             44
+sakura taisen iii                                                  44
+sinoalice                                                          44
 bakuon                                                             44
-culture japan                                                      43
+sword art online alternative gun gale online                       44
+dissidia final fantasy                                             44
+fire emblem shin monshou no nazo                                   44
+hinako note                                                        43
+the king of fighters xiv                                           43
 2018 fifa world cup                                                43
 mushishi                                                           43
-nazo no kanojo x                                                   43
-jahy sama wa kujikenai                                             43
-hinako note                                                        43
-gravity daze                                                       43
-mahou shoujo ikusei keikaku                                        43
-the king of fighters xiv                                           43
+culture japan                                                      43
 apple inc                                                          43
-houkago play                                                       42
-vento aureo                                                        42
+nazo no kanojo x                                                   43
+mahou shoujo ikusei keikaku                                        43
+jahy sama wa kujikenai                                             43
+gravity daze                                                       43
 slayers                                                            42
-chikanoko                                                          42
-mahoujin guruguru                                                  42
-outbreak company                                                   42
-uzaki chan wa asobitai                                             42
+vento aureo                                                        42
 tari tari                                                          42
-flower knight girl                                                 41
-seikimatsu occult gakuin                                           41
-makai senki disgaea 2                                              41
-kami sama no memo chou                                             41
-stardust crusaders                                                 41
-breath of fire v                                                   41
+houkago play                                                       42
+uzaki chan wa asobitai                                             42
+mahoujin guruguru                                                  42
+chikanoko                                                          42
+outbreak company                                                   42
 alice madness returns                                              41
+flower knight girl                                                 41
+breath of fire v                                                   41
+seikimatsu occult gakuin                                           41
 yumekui merry                                                      41
-shinkai shoujo (vocaloid)                                          41
 yuu gi ou gx                                                       41
-starbucks                                                          40
-white album                                                        40
-saru getchu                                                        40
+kami sama no memo chou                                             41
+makai senki disgaea 2                                              41
+shinkai shoujo (vocaloid)                                          41
+stardust crusaders                                                 41
 blazblue remix heart                                               40
-sankarea                                                           40
-hidan no aria                                                      40
-kimi ni todoke                                                     40
-himegoto                                                           40
-jormungand                                                         40
-muvluv                                                             40
-psycho pass                                                        40
-la pucelle                                                         40
+starbucks                                                          40
 prison school                                                      40
-dragon quest iii                                                   39
-machine doll wa kizutsukanai                                       39
-kobeya                                                             39
-metal gear solid v                                                 39
-advent cirno                                                       39
-idolmaster platinum stars                                          39
-genshiken                                                          39
-plastic memories                                                   39
-parasite eve                                                       39
+white album                                                        40
+la pucelle                                                         40
+kimi ni todoke                                                     40
+muvluv                                                             40
+himegoto                                                           40
+sankarea                                                           40
+jormungand                                                         40
+hidan no aria                                                      40
+psycho pass                                                        40
+saru getchu                                                        40
 neon genesis evangelion gakuen datenroku                           39
 toki wo kakeru shoujo                                              39
-metal slug                                                         38
+advent cirno                                                       39
+genshiken                                                          39
+metal gear solid v                                                 39
+machine doll wa kizutsukanai                                       39
+plastic memories                                                   39
+kobeya                                                             39
+idolmaster platinum stars                                          39
+dragon quest iii                                                   39
+parasite eve                                                       39
 nora cat channel                                                   38
-demonbane                                                          38
-comic girls                                                        38
-romeo to cinderella (vocaloid)                                     38
-taimanin asagi                                                     38
 boku dake ga inai machi                                            38
 bemani                                                             38
-kingdom hearts birth by sleep                                      37
-warioware                                                          37
-kagaminomachi no kaguya                                            37
-bioshock                                                           37
+taimanin asagi                                                     38
+metal slug                                                         38
+demonbane                                                          38
+romeo to cinderella (vocaloid)                                     38
+comic girls                                                        38
 dokidoki sister aoi chan                                           37
+warioware                                                          37
 souls (from software)                                              37
-pokemon xy (anime)                                                 37
+bioshock                                                           37
 vivid strike                                                       37
-idolmaster xenoglossia                                             36
-bioshock infinite                                                  36
-mononoke hime                                                      36
+pokemon xy (anime)                                                 37
+kagaminomachi no kaguya                                            37
+kingdom hearts birth by sleep                                      37
 bijin onna joushi takizawa san                                     36
-i chu                                                              36
-read or die                                                        36
-dengeki moeou                                                      36
 hyakko                                                             36
+i chu                                                              36
 mahou shoujo lyrical nanoha a's portable the battle of aces        36
+idolmaster xenoglossia                                             36
+dengeki moeou                                                      36
+mononoke hime                                                      36
 tetsuwan birdy                                                     36
-mobile suit gundam                                                 36
 me me me                                                           36
+read or die                                                        36
+bioshock infinite                                                  36
 fire emblem gaiden                                                 36
-nogizaka haruka no himitsu                                         35
+mobile suit gundam                                                 36
+miniskirt pirates                                                  35
 mahou senki lyrical nanoha force                                   35
+kaibutsu oujo                                                      35
+ikoku meiro no croisee                                             35
 sora no method                                                     35
+futaba channel                                                     35
+rakudai kishi no cavalry                                           35
+surge concerto                                                     35
+log horizon                                                        35
+nogizaka haruka no himitsu                                         35
+ar tonelico iii                                                    35
 kore wa zombie desu ka                                             35
 blood+                                                             35
-ar tonelico iii                                                    35
-kaibutsu oujo                                                      35
-surge concerto                                                     35
-ikoku meiro no croisee                                             35
-futaba channel                                                     35
-log horizon                                                        35
-miniskirt pirates                                                  35
-rakudai kishi no cavalry                                           35
-gensou suikoden v                                                  34
-fire emblem ankoku ryuu to hikari no tsurugi                       34
-ano ko wa toshi densetsu                                           34
-internet explorer                                                  34
-steins gate 0                                                      34
-love live school idol festival after school activity               34
-soredemo machi wa mawatteiru                                       34
-senki zesshou symphogear xd unlimited                              34
-grimm's fairy tales                                                34
-ryuusei no rockman                                                 34
-top wo nerae 2                                                     34
-getbackers                                                         34
 swapnote                                                           34
-claymore                                                           34
-bloodborne                                                         34
+love live school idol festival after school activity               34
 rockman x4                                                         34
-sora no kiseki                                                     34
-senran kagura peach beach splash                                   34
+fire emblem ankoku ryuu to hikari no tsurugi                       34
+senki zesshou symphogear xd unlimited                              34
+top wo nerae 2                                                     34
+bloodborne                                                         34
+getbackers                                                         34
+ryuusei no rockman                                                 34
+steins gate 0                                                      34
+claymore                                                           34
+ano ko wa toshi densetsu                                           34
+soredemo machi wa mawatteiru                                       34
+internet explorer                                                  34
 newtype                                                            34
-tetsuwan birdy decode                                              33
+grimm's fairy tales                                                34
+senran kagura peach beach splash                                   34
+sora no kiseki                                                     34
+gensou suikoden v                                                  34
+mahou shoujo lyrical nanoha the movie 2nd a's                      33
+jinrui wa suitai shimashita                                        33
 catherine (game)                                                   33
+gantz                                                              33
+inari konkon koi iroha                                             33
+wendy's                                                            33
+tetsuwan birdy decode                                              33
 wrestle angels                                                     33
+suguri                                                             33
 zeta gundam                                                        33
 castlevania                                                        33
-inari konkon koi iroha                                             33
-gantz                                                              33
-wendy's                                                            33
-suguri                                                             33
-jinrui wa suitai shimashita                                        33
 sola                                                               33
-mahou shoujo lyrical nanoha the movie 2nd a's                      33
-gundam card builder                                                32
-tekken 7                                                           32
-xenogears                                                          32
-wrestle angels survivor                                            32
-kokoro connect                                                     32
-elf san wa yaserarenai                                             32
-saint seiya omega                                                  32
-doubutsu no mori                                                   32
-athena (series)                                                    32
-star ocean the second story                                        32
-idolmaster one for all                                             32
 grandia                                                            32
 majo no takkyuubin                                                 32
-material sniper                                                    32
+athena (series)                                                    32
+kokoro connect                                                     32
+sora no woto                                                       32
+xenogears                                                          32
+elf san wa yaserarenai                                             32
 cowboy bebop                                                       32
+wrestle angels survivor                                            32
+saint seiya omega                                                  32
+idolmaster one for all                                             32
+doubutsu no mori                                                   32
+star ocean the second story                                        32
+xenoblade 2 ogon no kuri ira                                       32
+tekken 7                                                           32
+material sniper                                                    32
+gundam card builder                                                32
  flow                                                              32
 sound voltex                                                       32
-sora no woto                                                       32
-xenoblade 2 ogon no kuri ira                                       32
-sennen sensou aigis                                                31
 youkoso jitsuryoku shijou shugi no kyoushitsu e                    31
-higanbana no saku yoru ni                                          31
-girlish number                                                     31
 arms (game)                                                        31
-d gray man                                                         31
-sengoku musou                                                      31
 futari wa precure splash star                                      31
-teen titans                                                        31
 gundam g no reconguista                                            31
-twitter                                                            30
-frame arms girl                                                    30
-inazuma eleven go galaxy                                           30
+girlish number                                                     31
+teen titans                                                        31
+sengoku musou                                                      31
+d gray man                                                         31
+higanbana no saku yoru ni                                          31
+sennen sensou aigis                                                31
 ganbare goemon                                                     30
-princess connect                                                   30
-tenshi no 3p                                                       30
-asobi ni iku yo                                                    30
-yokohama kaidashi kikou                                            30
-super robot wars original generation                               30
 sensha otoko                                                       30
-akagi                                                              30
 lotte no omocha                                                    30
+asobi ni iku yo                                                    30
+inazuma eleven go galaxy                                           30
+tenshi no 3p                                                       30
+yokohama kaidashi kikou                                            30
+twitter                                                            30
+princess connect                                                   30
+super robot wars original generation                               30
 tekken 6                                                           30
-kamichu                                                            29
+frame arms girl                                                    30
+akagi                                                              30
+kure nai                                                           29
+kao no nai tsuki                                                   29
+kakumeiki valvrave                                                 29
+annie mei project                                                  29
+dramatical murder                                                  29
+kingdom hearts iii                                                 29
+grandia i                                                          29
+macross frontier itsuwari no utahime                               29
+cevio                                                              29
+heavy object                                                       29
+sakura quest                                                       29
 senbon zakura (vocaloid)                                           29
 meitantei conan                                                    29
-heavy object                                                       29
-kure nai                                                           29
-grandia i                                                          29
-kingdom hearts iii                                                 29
-macross frontier itsuwari no utahime                               29
-heaven's feel                                                      29
-kakumeiki valvrave                                                 29
-dramatical murder                                                  29
 joshiraku                                                          29
-cevio                                                              29
-sakura quest                                                       29
-kao no nai tsuki                                                   29
-annie mei project                                                  29
-persona 4 dancing all night                                        28
-resident evil 2                                                    28
-windows                                                            28
-idolmaster sp                                                      28
-sekirei                                                            28
-castlevania portrait of ruin                                       28
-drag on dragoon                                                    28
-wild arms 1                                                        28
-robotics notes                                                     28
+kamichu                                                            29
+heaven's feel                                                      29
 rockman 11                                                         28
-mahou shoujo lyrical nanoha the movie 1st                          28
-mayo chiki                                                         28
+drag on dragoon                                                    28
+windows                                                            28
+robotics notes                                                     28
 d frag                                                             28
+sekirei                                                            28
+mahou shoujo lyrical nanoha the movie 1st                          28
+persona 4 dancing all night                                        28
+wild arms 1                                                        28
+resident evil 2                                                    28
+castlevania portrait of ruin                                       28
+idolmaster sp                                                      28
+mayo chiki                                                         28
 ore no kanojo to osananajimi ga shuraba sugiru                     28
 dark souls iii                                                     28
-dengeki g's                                                        27
-drag on dragoon 3                                                  27
-shelter (music video)                                              27
+splatoon 2 octo expansion                                          27
+nijiura maids                                                      27
+chousoku henkei gyrozetter                                         27
+perfect cherry blossom                                             27
 sweet devil (vocaloid)                                             27
+dengeki g's                                                        27
+shelter (music video)                                              27
+narutaru                                                           27
+atelier ayesha                                                     27
+just be friends (vocaloid)                                         27
+oku sama wa joshi kousei                                           27
+mahou shoujo ikusei keikaku unmarked                               27
+drag on dragoon 3                                                  27
+puyopuyo fever                                                     27
 majo no ie                                                         27
 happy tree friends                                                 27
-narutaru                                                           27
-nijiura maids                                                      27
-just be friends (vocaloid)                                         27
-koumajou densetsu 2                                                27
-perfect cherry blossom                                             27
-atelier ayesha                                                     27
 cafe chan to break time                                            27
-oku sama wa joshi kousei                                           27
 dragon quest vi                                                    27
-akuma no riddle                                                    27
-bravely default (series)                                           27
 final fantasy x 2                                                  27
-chousoku henkei gyrozetter                                         27
-mahou shoujo ikusei keikaku unmarked                               27
-splatoon 2 octo expansion                                          27
-puyopuyo fever                                                     27
-bravely default flying fairy                                       26
-nhk ni youkoso                                                     26
-code geass boukoku no akito                                        26
-breath of fire iv                                                  26
-zero kara hajimeru mahou no sho                                    26
-mother (game)                                                      26
-ciel nosurge                                                       26
-high school dxd born                                               26
-lost universe                                                      26
-the embodiment of scarlet devil                                    26
-roshin yuukai (vocaloid)                                           26
-resident evil 6                                                    26
-tokyo ghoul re                                                     26
-benesse                                                            26
-the legend of zelda a link between worlds                          26
-dr slump                                                           26
-fire emblem fuukasetsugetsu                                        26
+bravely default (series)                                           27
+akuma no riddle                                                    27
+koumajou densetsu 2                                                27
 houshin engi                                                       26
+the embodiment of scarlet devil                                    26
+code geass boukoku no akito                                        26
+dr slump                                                           26
+the legend of zelda a link between worlds                          26
+ciel nosurge                                                       26
+zero kara hajimeru mahou no sho                                    26
+nhk ni youkoso                                                     26
 seiren                                                             26
+resident evil 6                                                    26
+breath of fire iv                                                  26
+benesse                                                            26
+fire emblem fuukasetsugetsu                                        26
+lost universe                                                      26
 ane naru mono                                                      26
-jewelpet (series)                                                  25
-choudenji robo combattler v                                        25
+bravely default flying fairy                                       26
+high school dxd born                                               26
+tokyo ghoul re                                                     26
+roshin yuukai (vocaloid)                                           26
+mother (game)                                                      26
 freezing                                                           25
-pita ten                                                           25
-project diva extend                                                25
-soulcalibur iv                                                     25
-saihate (vocaloid)                                                 25
-netoge no yome wa onna no ko janai to omotta                       25
-batman (series)                                                    25
-druaga no tou                                                      25
-tsuritama                                                          25
-princess connect re dive                                           25
-wonder woman (series)                                              25
-persona 4 the golden                                               25
 odds ends (vocaloid)                                               25
-senpai ga uzai kouhai no hanashi                                   25
-blue reflection                                                    25
-mother 3                                                           25
+tsuritama                                                          25
+project diva extend                                                25
+yakitate japan                                                     25
+choudenji robo combattler v                                        25
+moyashimon                                                         25
+pita ten                                                           25
+soulcalibur iv                                                     25
+persona 4 the golden                                               25
+batman (series)                                                    25
+wonder woman (series)                                              25
+netoge no yome wa onna no ko janai to omotta                       25
 devil may cry 3                                                    25
+mother 3                                                           25
+gamers                                                             25
+druaga no tou                                                      25
+blue reflection                                                    25
+jewelpet (series)                                                  25
 Name: tags_cat3, dtype: int64
 Mean, median, and std deviation of tags per tag category (how often each tag is used relative to category):
 276.2367105860972	22.0	2899.355972662784
@@ -3105,8 +3105,8 @@ hibiki (kantai collection)                     999
 prinz eugen (kantai collection)                985
 rem (re zero)                                  980
 hirasawa yui                                   978
-kikuchi makoto                                 966
 ayase eli                                      966
+kikuchi makoto                                 966
 kaname madoka                                  956
 murakumo (kantai collection)                   956
 suigintou                                      952
@@ -3133,8 +3133,8 @@ shimamura uzuki                                790
 toyosatomimi no miko                           786
 shijou takane                                  778
 souryuu asuka langley                          770
-kanzaki ranko                                  767
 hoshizora rin                                  767
+kanzaki ranko                                  767
 shirasaka koume                                765
 kinomoto sakura                                760
 unlabeled                                      759
@@ -3142,8 +3142,8 @@ ushio (kantai collection)                      748
 himekaidou hatate                              746
 fate testarossa                                737
 toosaka rin                                    731
-akebono (kantai collection)                    729
 wriggle nightbug                               729
+akebono (kantai collection)                    729
 kousaka honoka                                 727
 ganaha hibiki                                  725
 kotobuki tsumugi                               724
@@ -3151,8 +3151,8 @@ kurodani yamame                                722
 sendai (kantai collection)                     714
 darjeeling                                     703
 oshino shinobu                                 701
-maekawa miku                                   700
 akashi (kantai collection)                     700
+maekawa miku                                   700
 nitta minami                                   695
 takatsuki yayoi                                694
 takao (kantai collection)                      687
@@ -3176,8 +3176,8 @@ hagiwara yukiho                                627
 daiyousei                                      619
 gumi                                           615
 yuzuriha inori                                 614
-yagokoro eirin                                 612
 yukikaze (kantai collection)                   612
+yagokoro eirin                                 612
 okita souji (fate) (all)                       605
 okita souji (fate)                             605
 shoukaku (kantai collection)                   603
@@ -3235,8 +3235,8 @@ kaku seiga                                     461
 ia (vocaloid)                                  460
 akiyama yukari                                 454
 murasame (kantai collection)                   449
-yasaka kanako                                  448
 kitakami (kantai collection)                   448
+yasaka kanako                                  448
 hoshiguma yuugi                                446
 hayami kanade                                  442
 z3 max schultz (kantai collection)             440
@@ -3248,8 +3248,8 @@ jougasaki rika                                 425
 senjougahara hitagi                            424
 samus aran                                     418
 minamoto no raikou (fate grand order)          418
-otonashi kotori                                417
 meiko                                          417
+otonashi kotori                                417
 wakasagihime                                   416
 i 19 (kantai collection)                       415
 wa2000 (girls frontline)                       413
@@ -3260,16 +3260,16 @@ atago (azur lane)                              397
 graf zeppelin (kantai collection)              395
 naka (kantai collection)                       393
 miqo'te                                        393
-satonaka chie                                  391
 kousaka tamaki                                 391
 ikamusume                                      391
-takanashi rikka                                386
+satonaka chie                                  391
 honma meiko                                    386
+takanashi rikka                                386
+illyasviel von einzbern                        385
 tokitsukaze (kantai collection)                385
 sazanami (kantai collection)                   385
-illyasviel von einzbern                        385
-ryougi shiki                                   384
 satsuki (kantai collection)                    384
+ryougi shiki                                   384
 emilia (re zero)                               383
 louise francoise le blanc de la valliere       382
 kamikaze (kantai collection)                   380
@@ -3280,8 +3280,8 @@ chun li                                        367
 toramaru shou                                  365
 bismarck (kantai collection)                   365
 makinami mari illustrious                      364
-yagami hayate                                  362
 kizuna ai                                      362
+yagami hayate                                  362
 gilgamesh                                      361
 yahagi (kantai collection)                     360
 inkling                                        358
@@ -3294,8 +3294,8 @@ lillie (pokemon)                               351
 sanya v litvyak                                351
 ereshkigal (fate grand order)                  348
 souryuu (kantai collection)                    348
-kirishima (kantai collection)                  347
 uzuki (kantai collection)                      347
+kirishima (kantai collection)                  347
 perrine h clostermann                          346
 sakurauchi riko                                346
 takamachi nanoha                               345
@@ -3310,34 +3310,34 @@ belfast (azur lane)                            337
 yamakaze (kantai collection)                   337
 miyamoto musashi (fate grand order)            334
 warspite (kantai collection)                   333
-tatsuta (kantai collection)                    330
 yamashiro (kantai collection)                  330
+tatsuta (kantai collection)                    330
 aki minoriko                                   330
 kirima sharo                                   328
 kisaragi (kantai collection)                   327
-nagi                                           326
-hecatia lapislazuli                            326
 totoki airi                                    326
+hecatia lapislazuli                            326
+nagi                                           326
 chitanda eru                                   324
 narmaya (granblue fantasy)                     323
-soga no tojiko                                 323
 prinz eugen (azur lane)                        323
 fujimaru ritsuka (female)                      323
+soga no tojiko                                 323
 angela balzac                                  323
 i 58 (kantai collection)                       322
 kunikida hanamaru                              322
+shiomi shuuko                                  321
 leafa                                          321
 katou megumi                                   321
-shiomi shuuko                                  321
 kanna kamui                                    320
 kijin seija                                    319
 mikasa ackerman                                318
 kuma (kantai collection)                       316
-ujimatsu chiya                                 315
-yoko littner                                   315
 motoori kosuzu                                 315
-akaza akari                                    314
+yoko littner                                   315
+ujimatsu chiya                                 315
 kirino ranmaru                                 314
+akaza akari                                    314
 barnaby brooks jr                              311
 miyamoto frederica                             310
 lunasa prismriver                              307
@@ -3346,41 +3346,41 @@ hassan of serenity (fate)                      303
 sakuma mayu                                    302
 shokuhou misaki                                302
 kiyoshimo (kantai collection)                  301
-charlotte dunois                               300
+souseiseki                                     300
 matsuura kanan                                 300
 shuten douji (fate grand order)                300
-souseiseki                                     300
-hoto cocoa                                     299
+charlotte dunois                               300
 saten ruiko                                    299
+hoto cocoa                                     299
 ashigara (kantai collection)                   298
-takebe saori                                   296
 ahri                                           296
+takebe saori                                   296
 erica hartmann                                 295
 usami renko                                    293
 katyusha                                       292
 aki shizuha                                    291
 tedeza rize                                    291
 futatsuiwa mamizou                             291
-natori sana                                    290
 link                                           290
+natori sana                                    290
 houjou karen                                   289
 honda mio                                      289
 hatoba tsugu (character)                       288
 ruby rose                                      288
 kurosawa dia                                   287
 morikubo nono                                  286
-blanc                                          284
 agano (kantai collection)                      284
+blanc                                          284
 choukai (kantai collection)                    283
 kamiya nao                                     283
 haguro (kantai collection)                     282
 yowane haku                                    282
 hiryuu (kantai collection)                     280
 sukuna shinmyoumaru                            279
-hatsuzuki (kantai collection)                  277
-furude rika                                    277
 princess zelda                                 277
+hatsuzuki (kantai collection)                  277
 makoto nanaya                                  277
+furude rika                                    277
 saratoga (kantai collection)                   275
 kumano (kantai collection)                     274
 i 8 (kantai collection)                        273
@@ -3389,40 +3389,40 @@ u 511 (kantai collection)                      272
 ooi (kantai collection)                        271
 komaki manaka                                  270
 dizzy                                          270
-fujibayashi kyou                               269
 hoshino fumina                                 269
-beatrice                                       268
+fujibayashi kyou                               269
 katsura hinagiku                               268
+beatrice                                       268
 mutsuki (kantai collection)                    268
-shikinami (kantai collection)                  267
 mumei (kabaneri)                               267
+shikinami (kantai collection)                  267
 shirogane naoto                                266
 furukawa nagisa                                266
 rider                                          266
 northern ocean hime                            265
-cammy white                                    265
 unryuu (kantai collection)                     265
+cammy white                                    265
 kiyohime (fate grand order)                    264
 hayasui (kantai collection)                    263
 shinku                                         263
 ninomiya asuka                                 262
 lynette bishop                                 262
-noshiro (kantai collection)                    261
 hiiragi tsukasa                                261
+noshiro (kantai collection)                    261
 megumin                                        259
+mei (overwatch)                                258
 m1903 springfield (girls frontline)            258
 shirai kuroko                                  258
-mei (overwatch)                                258
 aegis (persona)                                257
 hanekawa tsubasa                               256
-makigumo (kantai collection)                   255
 nagae iku                                      255
 kay (girls und panzer)                         255
-nanami chiaki                                  255
 shidare hotaru                                 255
-kirito                                         254
-hk416 (girls frontline)                        254
+makigumo (kantai collection)                   255
+nanami chiaki                                  255
 takami chika                                   254
+hk416 (girls frontline)                        254
+kirito                                         254
 alice (wonderland)                             253
 izumi konata                                   253
 yuno                                           253
@@ -3431,13 +3431,13 @@ akagi miria                                    250
 akizuki ryou                                   250
 kise yayoi                                     249
 i 168 (kantai collection)                      248
-arcueid brunestud                              248
-helena blavatsky (fate grand order)            248
 waver velvet                                   248
+helena blavatsky (fate grand order)            248
+arcueid brunestud                              248
 tsukino mito                                   247
+suomi kp31 (girls frontline)                   246
 abe nana                                       246
 hanyuu                                         246
-suomi kp31 (girls frontline)                   246
 hagikaze (kantai collection)                   245
 doremy sweet                                   244
 tone (kantai collection)                       244
@@ -3445,167 +3445,167 @@ yayoi (kantai collection)                      244
 index                                          242
 yuugumo (kantai collection)                    241
 ootsuki yui                                    241
-yura (kantai collection)                       240
 charlotte e yeager                             240
+yura (kantai collection)                       240
 kyonko                                         239
 tomoe gozen (fate grand order)                 238
-lily white                                     237
 takao (azur lane)                              237
 gasai yuno                                     237
-shana                                          235
+lily white                                     237
 ibuki fuuko                                    235
+shana                                          235
 libeccio (kantai collection)                   232
 ishtar (fate grand order)                      231
 kakyouin noriaki                               231
-mogami (kantai collection)                     230
 mika (girls und panzer)                        230
+mogami (kantai collection)                     230
 abukuma (kantai collection)                    229
 kirigiri kyouko                                229
-kotomine kirei                                 228
 i 26 (kantai collection)                       228
+kotomine kirei                                 228
 toshinou kyouko                                227
 ranka lee                                      226
 morrigan aensland                              225
+akizuki (kantai collection)                    224
 aragaki ayase                                  224
 arashio (kantai collection)                    224
-akizuki (kantai collection)                    224
-yamada elf                                     222
 roll                                           222
+yamada elf                                     222
+sakurai momoka                                 221
 hayashimo (kantai collection)                  221
 hachikuji mayoi                                221
-sakurai momoka                                 221
 kawakaze (kantai collection)                   220
 umikaze (kantai collection)                    220
 mercy (overwatch)                              220
-violet evergarden (character)                  219
 kurosawa ruby                                  219
 hino akane (idolmaster)                        219
+violet evergarden (character)                  219
 kagerou (kantai collection)                    218
-weiss schnee                                   217
 nia teppelin                                   217
-kinugasa (kantai collection)                   216
+weiss schnee                                   217
 clarisse (granblue fantasy)                    216
+kinugasa (kantai collection)                   216
 miyafuji yoshika                               216
 tsuruya                                        215
 aoba (kantai collection)                       214
-ellen baker                                    213
 jintsuu (kantai collection)                    213
-hirasawa ui                                    212
+ellen baker                                    213
 kohinata miho                                  212
+hirasawa ui                                    212
 anegasaki nene                                 211
 hatsuyuki (kantai collection)                  211
-shiratsuyu (kantai collection)                 210
-noire                                          210
-tokisaki kurumi                                210
 platelet (hataraku saibou)                     210
+noire                                          210
+shiratsuyu (kantai collection)                 210
+tokisaki kurumi                                210
 madotsuki                                      209
 elin (tera)                                    208
 yuigahama yui                                  207
-maou (maoyuu)                                  206
 kujou karen                                    206
+maou (maoyuu)                                  206
+houjou satoko                                  205
+alisa ilinichina amiella                       205
 ohara mari                                     205
 nekomiya hinata                                205
-alisa ilinichina amiella                       205
-houjou satoko                                  205
+kallen stadtfeld                               204
 miyaura sanshio                                204
 shoebill (kemono friends)                      204
-kallen stadtfeld                               204
 homura (xenoblade 2)                           203
-cagliostro (granblue fantasy)                  203
 shiki eiki                                     203
+cagliostro (granblue fantasy)                  203
 akitsu maru (kantai collection)                202
-hoshimiya ichigo                               201
 joseph joestar (young)                         201
-touwa erio                                     200
+hoshimiya ichigo                               201
 sakura chiyo                                   200
+touwa erio                                     200
 taneshima popura                               199
 toudou yurika                                  199
 yang xiao long                                 199
+pola (kantai collection)                       198
 matoi (pso2)                                   198
 michishio (kantai collection)                  198
-pola (kantai collection)                       198
 futami mami                                    197
-fusou (kantai collection)                      196
-altera (fate)                                  196
 otokura yuuki                                  196
+fusou (kantai collection)                      196
 hino akane (smile precure )                    196
-caesar anthonio zeppeli                        195
+altera (fate)                                  196
 sendai hakurei no miko                         195
-reizei mako                                    194
-kirigaya suguha                                194
+caesar anthonio zeppeli                        195
 kobayakawa rinko                               194
 vivio                                          194
-yui (angel beats )                             193
+kirigaya suguha                                194
+reizei mako                                    194
 akigumo (kantai collection)                    193
-nyarlathotep (nyaruko san)                     192
-ichigo (darling in the franxx)                 192
+yui (angel beats )                             193
 kamoi (kantai collection)                      192
-hoshi shouko                                   190
-kasumi (pokemon)                               190
-shimada arisu                                  190
-uraraka ochako                                 190
+ichigo (darling in the franxx)                 192
+nyarlathotep (nyaruko san)                     192
 maribel hearn                                  190
+kasumi (pokemon)                               190
+hoshi shouko                                   190
+uraraka ochako                                 190
+shimada arisu                                  190
 yukine chris                                   188
-japanese crested ibis (kemono friends)         187
+oikawa shizuku                                 187
+ogata chieri                                   187
 kuujou jolyne                                  187
 yukinoshita yukino                             187
-afuro terumi                                   187
-oikawa shizuku                                 187
+japanese crested ibis (kemono friends)         187
 kamikita komari                                187
-ogata chieri                                   187
+afuro terumi                                   187
 arashi (kantai collection)                     186
-kuroshio (kantai collection)                   186
 vira lilie                                     186
+kuroshio (kantai collection)                   186
+teruzuki (kantai collection)                   184
 usami sumireko                                 184
 noel vermillion                                184
-teruzuki (kantai collection)                   184
-lucina                                         183
-lyndis (fire emblem)                           183
-sinon                                          183
-medicine melancholy                            183
 ayanami (azur lane)                            183
+lyndis (fire emblem)                           183
 kino                                           183
-bb (fate) (all)                                182
+medicine melancholy                            183
+lucina                                         183
+sinon                                          183
 bb (fate extra ccc)                            182
+bb (fate) (all)                                182
+emperor penguin (kemono friends)               181
 kasumi (doa)                                   181
 kasumigaoka utaha                              181
-emperor penguin (kemono friends)               181
-kusugawa sasara                                180
 tomori nao                                     180
+kusugawa sasara                                180
 danua                                          179
+narusawa ryouka                                178
 isonami (kantai collection)                    178
 shirase sakuya                                 178
-narusawa ryouka                                178
-oboro (kantai collection)                      176
 gertrud barkhorn                               176
-seaport hime                                   176
 asia argento                                   176
+oboro (kantai collection)                      176
+seaport hime                                   176
 neptune (neptune series)                       175
 android 18                                     175
-nanao yuriko                                   174
+ushiromiya ange                                174
 ingrid                                         174
 kitazawa shiho                                 174
-ushiromiya ange                                174
+nanao yuriko                                   174
 yuffie kisaragi                                173
-kuriyama mirai                                 172
 laura bodewig                                  172
-shinki                                         172
+kuriyama mirai                                 172
 dio brando                                     172
-kisume                                         171
+shinki                                         172
 qbz 95 (girls frontline)                       171
 sf a2 miki                                     171
-kobayakawa sae                                 171
+kisume                                         171
 natsume rin                                    171
-luna child                                     170
+kobayakawa sae                                 171
 re class battleship                            170
 levi (shingeki no kyojin)                      170
+luna child                                     170
 suzunari shizuku                               170
 sento isuzu                                    169
-sawamura spencer eriri                         169
 tada riina                                     169
+sawamura spencer eriri                         169
+inami mahiru                                   169
 yin                                            169
 tooru (maidragon)                              169
-inami mahiru                                   169
 han juri                                       168
 kiso (kantai collection)                       168
 nami (one piece)                               168
@@ -3613,421 +3613,421 @@ hyuuga hinata                                  167
 meltlilith                                     167
 ayanami (kantai collection)                    166
 lilith aensland                                166
-takara miyuki                                  165
 pepperoni (girls und panzer)                   165
+takara miyuki                                  165
 haruka (pokemon)                               164
 vita                                           164
 hinatsuru ai                                   163
-enma ai                                        163
 amagi yukiko                                   163
 blake belladonna                               163
+enma ai                                        163
 kasane teto                                    163
 vampy                                          162
-furutaka (kantai collection)                   161
 maikaze (kantai collection)                    161
 kasugano sakura                                161
+furutaka (kantai collection)                   161
+anjou naruko                                   160
 sakura futaba                                  160
-nibutani shinka                                160
 kooh                                           160
 katori (kantai collection)                     160
-anjou naruko                                   160
-hikari (xenoblade 2)                           159
+nibutani shinka                                160
 sakamoto mio                                   159
 sanzen'in nagi                                 159
+hikari (xenoblade 2)                           159
 ayatsuji tsukasa                               158
-miyamizu mitsuha                               158
 kumoi ichirin                                  158
-sora ginko                                     157
+miyamizu mitsuha                               158
 aqua (konosuba)                                157
+sora ginko                                     157
 midare toushirou                               156
 kawakami mai                                   156
-manabe nodoka                                  156
 konjiki no yami                                156
-moroboshi kirari                               155
-mikazuki munechika                             155
+manabe nodoka                                  156
 lum                                            155
+mikazuki munechika                             155
+moroboshi kirari                               155
 kujikawa rise                                  154
-morichika rinnosuke                            154
 toudou shimako                                 154
+morichika rinnosuke                            154
 tsukioka kogane                                153
-kirijou mitsuru                                153
-shimazu yoshino                                153
-narukami yuu                                   153
 takamori aiko                                  153
+shimazu yoshino                                153
 sakagami tomoyo                                153
+narukami yuu                                   153
 aozaki aoko                                    153
-toono akiha                                    152
+kirijou mitsuru                                153
 yamada aoi                                     152
-hatsukaze (kantai collection)                  151
-nagatsuki (kantai collection)                  151
+toono akiha                                    152
 kusanagi motoko                                151
-xp tan                                         150
-okazaki yumemi                                 150
-vert                                           150
+nagatsuki (kantai collection)                  151
+hatsukaze (kantai collection)                  151
 suzukaze aoba                                  150
+okazaki yumemi                                 150
+xp tan                                         150
+vert                                           150
 sylvie (dorei to no seikatsu)                  149
 midorikawa nao                                 148
 super pochaco                                  148
 kaito                                          148
 tsukimiya ayu                                  147
 regina (dokidoki precure)                      147
-isuzu hana                                     147
 purple heart                                   147
-saya                                           146
+isuzu hana                                     147
+oyashio (kantai collection)                    146
+yuzuhara konomi                                146
 mukaido manaka                                 146
 sonozaki shion                                 146
-yuzuhara konomi                                146
 agrias oaks                                    146
-oyashio (kantai collection)                    146
+saya                                           146
 amanogawa kirara                               145
 mei (pokemon)                                  145
-matoi ryuuko                                   144
 kozakura marry                                 144
+matoi ryuuko                                   144
+yuuki (sao)                                    144
 suzukaze (kantai collection)                   144
 seeu                                           144
 mizunashi akari                                144
-yuuki (sao)                                    144
-kagura (gintama)                               143
 rosehip                                        143
+kagura (gintama)                               143
 natalia (idolmaster)                           143
 miyako yoshika                                 143
-elsa (frozen)                                  142
 shiro (dennou shoujo youtuber shiro)           142
-armin arlert                                   140
-slaine troyard                                 140
-jeanne d'arc (granblue fantasy)                140
+elsa (frozen)                                  142
 fumizuki (kantai collection)                   140
-isuzu (kantai collection)                      140
+armin arlert                                   140
 morgiana                                       140
-yuuki makoto                                   139
-hotarumaru                                     139
-lucy maria misora                              139
+slaine troyard                                 140
+isuzu (kantai collection)                      140
+jeanne d'arc (granblue fantasy)                140
 nowaki (kantai collection)                     139
-takanami (kantai collection)                   138
-orange pekoe                                   138
-yokoyama nao                                   138
+yuuki makoto                                   139
+lucy maria misora                              139
+hotarumaru                                     139
 consort yu (fate)                              138
 ivan karelin                                   138
-christa renz                                   138
-enterprise (azur lane)                         138
-kirisaki chitoge                               138
 kuroki tomoko                                  138
+orange pekoe                                   138
+kirisaki chitoge                               138
+takanami (kantai collection)                   138
+enterprise (azur lane)                         138
+christa renz                                   138
+yokoyama nao                                   138
+victorica de blois                             137
 shirakiin ririchiyo                            137
 shouhou (kantai collection)                    137
-victorica de blois                             137
-huang lingyin                                  136
 ump45 (girls frontline)                        136
-ark royal (kantai collection)                  135
+huang lingyin                                  136
 shiranui mai                                   135
 neo (rwby)                                     135
-boudica (fate grand order)                     135
-chitose (kantai collection)                    135
-kaban (kemono friends)                         135
 huang baoling                                  135
-tama (kantai collection)                       134
-nagatoro                                       134
+boudica (fate grand order)                     135
+kaban (kemono friends)                         135
+ark royal (kantai collection)                  135
+chitose (kantai collection)                    135
 asagumo (kantai collection)                    134
+tama (kantai collection)                       134
 tanigawa kanna                                 134
-winry rockbell                                 133
+nagatoro                                       134
 hyuuga (kantai collection)                     133
 amagi (kantai collection)                      133
-mizumoto yukari                                132
-hatsushimo (kantai collection)                 132
-nagisa kaworu                                  132
-grey wolf (kemono friends)                     132
-kanbaru suruga                                 132
-kadotani anzu                                  132
+winry rockbell                                 133
 yamashiro (azur lane)                          132
+hatsushimo (kantai collection)                 132
+grey wolf (kemono friends)                     132
+kadotani anzu                                  132
+kanbaru suruga                                 132
+nagisa kaworu                                  132
+mizumoto yukari                                132
 yuri (angel beats )                            132
-kurumizawa satanichia mcdowell                 131
-selvaria bles                                  131
 naoe riki                                      131
-monika (doki doki literature club)             131
+selvaria bles                                  131
 tachibana hibiki (symphogear)                  131
+kurumizawa satanichia mcdowell                 131
+monika (doki doki literature club)             131
 haruno sakura                                  131
+cleveland (azur lane)                          130
 tsukumo benben                                 130
 black rock shooter (character)                 130
-cleveland (azur lane)                          130
-maka albarn                                    129
+anastasia (fate grand order)                   129
 nepgear                                        129
 yamato no kami yasusada                        129
-anastasia (fate grand order)                   129
+maka albarn                                    129
 asui tsuyu                                     128
 hiradaira chisaki                              128
 tsurumaru kuninaga                             127
-hishikawa rikka                                126
 galko                                          126
+hishikawa rikka                                126
 shanghai doll                                  126
 kiriya aoi                                     126
 kiryuuin satsuki                               126
+kousaka reina                                  125
 sasaki chiho                                   125
 illustrious (azur lane)                        125
-kousaka reina                                  125
+silica                                         124
+fujisaki chihiro                               124
 princess peach                                 124
 higuchi kaede                                  124
-fujisaki chihiro                               124
-hoshino ruri                                   124
-silica                                         124
-akitsushima (kantai collection)                124
 sakurajima mai                                 124
-tashkent (kantai collection)                   123
-zara (kantai collection)                       123
-g41 (girls frontline)                          123
-aoki reika                                     123
+hoshino ruri                                   124
+akitsushima (kantai collection)                124
 mukai takumi                                   123
+aoki reika                                     123
 kawashima momo                                 123
-hikari (pokemon)                               123
+g41 (girls frontline)                          123
+tashkent (kantai collection)                   123
 cecilia alcott                                 123
-musashi (kantai collection)                    122
-sonozaki mion                                  122
-mifune miyu                                    122
-kasuga ayumu                                   122
-eldridge (azur lane)                           122
-suou pavlichenko                               122
+zara (kantai collection)                       123
+hikari (pokemon)                               123
 mankanshoku mako                               122
+mifune miyu                                    122
+musashi (kantai collection)                    122
+kasuga ayumu                                   122
+suou pavlichenko                               122
+sonozaki mion                                  122
+eldridge (azur lane)                           122
+natsume (pokemon)                              121
+sunny milk                                     121
+mizuki (pokemon)                               121
+houjou hibiki                                  121
 ezo red fox (kemono friends)                   121
+chloe von einzbern                             121
+usada hikaru                                   121
 nakano yuka                                    121
 harukaze (kantai collection)                   121
-natsume (pokemon)                              121
-usada hikaru                                   121
-mizuki (pokemon)                               121
-chloe von einzbern                             121
-houjou hibiki                                  121
-sunny milk                                     121
 matsumae ohana                                 120
 welrod mk2 (girls frontline)                   120
-igarashi kyouko                                119
-riesz                                          119
-minna dietlinde wilcke                         119
-negev (girls frontline)                        119
 morishima haruka                               119
+riesz                                          119
+negev (girls frontline)                        119
+minna dietlinde wilcke                         119
+igarashi kyouko                                119
 mochizuki (kantai collection)                  118
-aoyama sumika                                  118
 tracer (overwatch)                             118
-tieria erde                                    117
-eureka                                         117
-takane manaka                                  117
-kazama asuka                                   117
-emiya shirou                                   117
-kasugano sora                                  117
+aoyama sumika                                  118
 ichinose kotomi                                117
-watarase jun                                   116
-suzuki jun                                     116
-francesca lucchini                             116
-passion lip                                    116
+kazama asuka                                   117
+takane manaka                                  117
+kasugano sora                                  117
+eureka                                         117
+tieria erde                                    117
+emiya shirou                                   117
 araragi tsukihi                                116
-hikami sumire                                  116
 zooey (granblue fantasy)                       116
+passion lip                                    116
 lelouch lamperouge                             116
-atalanta (fate)                                116
-sakuranomiya maika                             116
 lightning farron                               116
+francesca lucchini                             116
+suzuki jun                                     116
+hikami sumire                                  116
+sakuranomiya maika                             116
+watarase jun                                   116
+atalanta (fate)                                116
 shizuka rin                                    115
-etorofu (kantai collection)                    115
-littorio (kantai collection)                   115
-honolulu (azur lane)                           115
-satake minako                                  115
-ump9 (girls frontline)                         115
-mikuma (kantai collection)                     115
 korwa                                          115
-satou shin                                     114
-semiramis (fate)                               114
+littorio (kantai collection)                   115
+ump9 (girls frontline)                         115
+satake minako                                  115
+etorofu (kantai collection)                    115
+honolulu (azur lane)                           115
+mikuma (kantai collection)                     115
 micaiah                                        114
+satou shin                                     114
 dekomori sanae                                 114
-ooba minori                                    114
 mithra                                         114
-me tan                                         113
-hibari (senran kagura)                         113
-matoba risa                                    113
-nachi (kantai collection)                      113
-jervis (kantai collection)                     113
-isshiki iroha                                  113
-caren hortensia                                113
-ringo (touhou)                                 113
-takagi san                                     113
+semiramis (fate)                               114
+ooba minori                                    114
 myoukou (kantai collection)                    113
-kaburagi t kotetsu                             113
+matoba risa                                    113
+hibari (senran kagura)                         113
 au ra                                          113
+isshiki iroha                                  113
+me tan                                         113
+kaburagi t kotetsu                             113
+nachi (kantai collection)                      113
+takagi san                                     113
+jervis (kantai collection)                     113
+ringo (touhou)                                 113
+caren hortensia                                113
+kiss shot acerola orion heart under blade      112
+funami yui                                     112
 kohaku                                         112
 taihou (azur lane)                             112
-funami yui                                     112
 frederica bernkastel                           112
-kinoshita hideyoshi                            112
 kuroyukihime                                   112
-kiss shot acerola orion heart under blade      112
-ushiromiya maria                               111
+kinoshita hideyoshi                            112
 ichii yui                                      111
-tsurumaki maki                                 111
-sasaki chie                                    111
 oumae kumiko                                   111
+sasaki chie                                    111
 meer campbell                                  111
 itsuka kotori                                  111
-rfb (girls frontline)                          110
+tsurumaki maki                                 111
+ushiromiya maria                               111
 tsutsukakushi tsukiko                          110
-mizutani eri                                   110
 nitocris (fate grand order)                    110
-amane suzuha                                   110
 ibuki tsubasa                                  110
+mizutani eri                                   110
 asashimo (kantai collection)                   110
-yuna (ff10)                                    109
-chiki                                          109
-enkidu (fate strange fake)                     109
-kula diamond                                   109
+rfb (girls frontline)                          110
+amane suzuha                                   110
 suzutsuki (kantai collection)                  109
+enkidu (fate strange fake)                     109
 tanamachi kaoru                                109
+chiki                                          109
+yuna (ff10)                                    109
+kula diamond                                   109
 yorita yoshino                                 108
-hammann (azur lane)                            108
 jaguar (kemono friends)                        108
+hammann (azur lane)                            108
 matsuoka gou                                   108
 kawashima ami                                  108
 tatsumaki                                      107
-misumi nagisa                                  107
 aerith gainsborough                            107
 signum                                         107
+misumi nagisa                                  107
 sonohara anri                                  107
-andira (granblue fantasy)                      106
 seiran (touhou)                                106
-nonna                                          105
-nishi kinuyo                                   105
+andira (granblue fantasy)                      106
 tsukumo yatsuhashi                             105
 shirayuki (kantai collection)                  105
+nonna                                          105
+nishi kinuyo                                   105
 pixiv tan                                      105
 shirona (pokemon)                              105
+baba konomi                                    104
+nishizumi shiho                                104
+alpaca suri (kemono friends)                   104
 lily (vocaloid)                                104
-nadia                                          104
 aiba yumi                                      104
 nekomusume                                     104
-alpaca suri (kemono friends)                   104
+nadia                                          104
 ise (kantai collection)                        104
-nishizumi shiho                                104
 lyrica prismriver                              104
-baba konomi                                    104
-caster                                         103
 miyazono kawori                                103
-kusakabe misao                                 103
-intrepid (kantai collection)                   103
 commandant teste (kantai collection)           103
-yuri lowell                                    103
 little red riding hood (grimm)                 103
-miyanaga saki                                  103
 asakaze (kantai collection)                    103
-maru yu (kantai collection)                    102
-yumi (senran kagura)                           102
-honebami toushirou                             102
+intrepid (kantai collection)                   103
+yuri lowell                                    103
+miyanaga saki                                  103
+kusakabe misao                                 103
+caster                                         103
 yukikaze panettone                             102
+yumi (senran kagura)                           102
+maru yu (kantai collection)                    102
+honebami toushirou                             102
 kawazoe tamaki                                 102
 toga himiko                                    101
+rias gremory                                   101
 mirai akari                                    101
 serena (pokemon)                               101
 camilla (fire emblem if)                       101
-rias gremory                                   101
-pharah (overwatch)                             100
-himekawa yuki                                  100
 momo velia deviluke                            100
-takafuji kako                                  100
+kuchiki rukia                                  100
+himekawa yuki                                  100
 lili (tekken)                                  100
 silver fox (kemono friends)                    100
-kuchiki rukia                                  100
-rita mordio                                     99
-sakuramori kaori                                99
-haramura nodoka                                 99
-marie rose                                      99
+pharah (overwatch)                             100
+takafuji kako                                  100
+akagi (azur lane)                               99
+jakuzure nonon                                  99
+sakurai rihoko                                  99
+ooshio (kantai collection)                      99
+kousaka umi                                     99
+takao (aoki hagane no arpeggio)                 99
 kinu (kantai collection)                        99
 c c lemon (character)                           99
-kousaka umi                                     99
-akagi (azur lane)                               99
-sakurai rihoko                                  99
-takao (aoki hagane no arpeggio)                 99
-ooshio (kantai collection)                      99
-jakuzure nonon                                  99
-fennec (kemono friends)                         98
-kamitsure (pokemon)                             98
-yumizuka satsuki                                98
-mogami shizuka                                  98
-suiren (pokemon)                                98
-ram (re zero)                                   98
-misaki mei                                      98
-amayadori machi                                 98
-vampire (azur lane)                             98
-jun'you (kantai collection)                     98
+marie rose                                      99
+rita mordio                                     99
+haramura nodoka                                 99
+sakuramori kaori                                99
 estellise sidos heurassein                      98
+fennec (kemono friends)                         98
+mogami shizuka                                  98
+kamitsure (pokemon)                             98
+suiren (pokemon)                                98
+vampire (azur lane)                             98
+ram (re zero)                                   98
+jun'you (kantai collection)                     98
 lucy heartfilia                                 98
-len                                             97
-hasegawa kobato                                 97
-takimoto hifumi                                 97
-female protagonist (persona 3)                  97
-gotland (kantai collection)                     97
-endou saya                                      97
-marie antoinette (fate grand order)             97
-sand cat (kemono friends)                       97
-natori (kantai collection)                      97
-minase nayuki                                   97
+amayadori machi                                 98
+yumizuka satsuki                                98
+misaki mei                                      98
 kurugaya yuiko                                  97
-chikuma (kantai collection)                     96
-kushieda minori                                 96
-2k tan                                          96
-miyako                                          96
-kairi (kingdom hearts)                          96
+hasegawa kobato                                 97
+minase nayuki                                   97
+sand cat (kemono friends)                       97
+female protagonist (persona 3)                  97
+natori (kantai collection)                      97
+gotland (kantai collection)                     97
+marie antoinette (fate grand order)             97
+takimoto hifumi                                 97
+endou saya                                      97
+len                                             97
 sugiura ayano                                   96
-minazuki (kantai collection)                    95
-shuu (inazuma eleven)                           95
-medb (fate grand order)                         95
-shiodome miuna                                  95
+kushieda minori                                 96
+chikuma (kantai collection)                     96
+2k tan                                          96
+kairi (kingdom hearts)                          96
+miyako                                          96
 mamiya (kantai collection)                      95
-nikka edvardine katajainen                      95
+shiodome miuna                                  95
+shuu (inazuma eleven)                           95
 medb (fate) (all)                               95
-futami ami                                      94
-xuanzang (fate grand order)                     94
-hinata kaho                                     94
-inuyama aoi                                     94
-richelieu (kantai collection)                   94
-hoshizora miyuki                                94
-laffey (azur lane)                              94
+minazuki (kantai collection)                    95
+medb (fate grand order)                         95
+nikka edvardine katajainen                      95
 sophie (tales)                                  94
-katsuragi (kantai collection)                   94
 shalon                                          94
-star sapphire                                   94
-tateyama ayano                                  94
 reinforce                                       94
-namazuo toushirou                               93
-es (xblaze)                                     93
+tateyama ayano                                  94
+hinata kaho                                     94
+laffey (azur lane)                              94
+star sapphire                                   94
+inuyama aoi                                     94
+futami ami                                      94
+katsuragi (kantai collection)                   94
+hoshizora miyuki                                94
+richelieu (kantai collection)                   94
+xuanzang (fate grand order)                     94
+lancer                                          93
 dsr 50 (girls frontline)                        93
+viktor nikiforov                                93
 kondou taeko                                    93
 noihara himari                                  93
+es (xblaze)                                     93
 anila (granblue fantasy)                        93
+namazuo toushirou                               93
 amasawa yuuko                                   93
-lancer                                          93
-viktor nikiforov                                93
-wakaba (kantai collection)                      92
-erza scarlet                                    92
-tsumiki mikan                                   92
-ciel                                            92
 iwakura lain                                    92
-shinonono houki                                 92
-okazaki ushio                                   92
-osakabe hime (fate grand order)                 92
-toosaka tokiomi                                 92
-katagiri sanae                                  92
 bellezza felutia                                92
+toosaka tokiomi                                 92
+shinonono houki                                 92
+wakaba (kantai collection)                      92
 anceril sacred                                  92
+tsumiki mikan                                   92
+osakabe hime (fate grand order)                 92
+okazaki ushio                                   92
+ciel                                            92
+katagiri sanae                                  92
+erza scarlet                                    92
 mai natsume                                     91
-celes chere                                     91
 bradamante (fate grand order)                   91
 hatakaze (kantai collection)                    91
-makabe mizuki                                   91
 yuri plisetsky                                  91
+celes chere                                     91
 jonathan joestar                                91
-etna                                            90
-araragi karen                                   90
-shirayuri sakura                                90
+makabe mizuki                                   91
 fuuro (pokemon)                                 90
-konno junko                                     90
-tokoro megumi                                   90
-lancer (fate zero)                              90
-izumi no kami kanesada                          90
-archer                                          90
 lyn (blade soul)                                90
+tokoro megumi                                   90
 menou kaname                                    90
+shirayuri sakura                                90
+konno junko                                     90
+lancer (fate zero)                              90
+araragi karen                                   90
+izumi no kami kanesada                          90
+etna                                            90
+archer                                          90
 Name: tags_cat4, dtype: int64
 Mean, median, and std deviation of tags per tag category (how often each tag is used relative to category):
 140.3449939686369	47.0	356.56977525233293

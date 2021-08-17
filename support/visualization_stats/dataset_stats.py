@@ -47,7 +47,7 @@ def plot_histogram(args, data, cat, no_bins, level, display_text=False):
 		
     axs.set_ylabel('No. of samples per tag')
     axs.set_title('Ordered based on no. of samples')
-    axs.tick_params(axis='both', labelsize=7)
+    axs.tick_params(axis='both', labelsize=8)
     
     if display_text == True:
         axs.set_xticks(np.arange(bins))
