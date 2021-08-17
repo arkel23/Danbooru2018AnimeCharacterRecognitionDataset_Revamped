@@ -6,7 +6,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 from wordcloud import WordCloud, ImageColorGenerator
 from matplotlib.colors import LinearSegmentedColormap
-from collections import Counter
+
+plt.rcParams['font.family'] = 'serif'
+plt.rcParams['font.serif'] = ['Times New Roman'] + plt.rcParams['font.serif']
 
 def print_write(f, curr_line):
     print(curr_line)
@@ -30,7 +32,7 @@ def plot_wordcloud(args, data, cat, level):
     ax = fig.add_subplot(1, 1, 1)
     ax.imshow(cloud)
     plt.axis('off')
-    ax.set_title(title, fontsize=18)
+    ax.set_title(title, fontsize=20)
     fig.tight_layout()
     fig.savefig(os.path.join(args.results_dir, 'wordcloud_{}_{}_{}.{}'.format(args.filename, cat, level, args.save_format)), dpi=300)
 
