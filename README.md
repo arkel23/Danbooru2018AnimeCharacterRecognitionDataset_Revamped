@@ -7,15 +7,19 @@ Download from the following [Google Drive folder](https://drive.google.com/drive
 From `data` folder in Google Drive download `dafre_faces.tar.gz` for *DAF:re Faces* or `dafre_full.tar.gz` for *DAF:re Full*, and `labels.tar.gz` and uncompress their contents into desired data storage location (suggest to clone this [DAF:re repo](https://github.com/arkel23/Danbooru2018AnimeCharacterRecognitionDataset_Revamped) and uncompress these folders) so that both `faces` and/or `fullMin256` directories, along with `labels` are at the same level.
 
 We have two splits, one for face-crops only, and one for full-body images, named as  *DAF:re Faces* and *DAF:re Full*, respectively. Samples from the training set for both versions can be seen below:
-![](.support/visualization_stats/eda/dafre_faces_full_gridsdanbooruFaces_train_labelsFalse_orderedFalse.png)
-![](.support/visualization_stats/eda/dafre_faces_full_grids/danbooruFull_train_labelsTrue_orderedFalse.png)
+![](./support/visualization_stats/eda/dafre_faces_full_grids/danbooruFaces_train_labelsFalse_orderedFalse.png)
+![](./support/visualization_stats/eda/dafre_faces_full_grids/danbooruFull_train_labelsTrue_orderedFalse.png)
 
 Histogram of classes with most samples. It's clear that the distribution is very long-tailed.
-![](.support/assets/histogram_tags_cat4.png)
+![](./support/assets/histogram_tags_cat4.png)
 
-Wordcloud of category 0 tags at word-level along with most popular tags:
+Wordcloud of category 0 (description) tags at word-level along with most popular tags:
 ![](./support/assets/wordcloud_tags_cat0_wordlevel.png)
-![](.support/assets/histogram_tags_cat0_taglevel.png)
+![](./support/assets/histogram_tags_cat0_taglevel.png)
+
+Wordcloud of category 3 (series or source material) and category 4 (characters):
+![](./support/visualization_stats/eda/dafre_symbolsremoved_minlen2_minapp2_profsremoved_filledempty/wordcloud_dafre_tags_symbolsremoved_minlen2_minapp2_profsremoved_filledempty_tags_cat3_tag.png)
+![](./support/visualization_stats/eda/dafre_symbolsremoved_minlen2_minapp2_profsremoved_filledempty/wordcloud_dafre_tags_symbolsremoved_minlen2_minapp2_profsremoved_filledempty_tags_cat4_tag.png)
 
 This repo provides substantial changes to the dataset provided by 
 [grapeot](https://github.com/grapeot/Danbooru2018AnimeCharacterRecognitionDataset).
@@ -31,7 +35,7 @@ But at the same time reducing the overall complexity of the set.
 * `support/tags_prepare` include supporting scripts to prepare the tags from the original Danbooru2018 metadata, and filter according to the above steps. 
 * `visualization_stats` include functions to make histograms, wordclouds and display stats above the different tag categories for the dataset, by taking in a `dafre*.csv` file. It also includes functions to display the dataset pictures or search by tags.
 
-Below has been unchanged
+Below has been mostly unchanged (added our reference).
 
 # Danbooru 2018 Anime Character Recognition Dataset
 
@@ -109,12 +113,24 @@ Many thanks to [gwern](https://github.com/gwern), you can now download the tarba
 rsync --verbose rsync://78.46.86.149:873/biggan/2019-07-27-grapeot-danbooru2018-animecharacterrecognition.tar ./
 ```
 
-### Cite the Dataset
+# References
+If you find this work useful, please consider citing:
 
-If you find the dataset useful, please consider citing the dataset:
-
+* E. A. Rios, W.-H. Cheng, and B.-C. Lai, “DAF:re: A Challenging, Crowd-Sourced, Large-Scale, Long-Tailed Dataset For Anime Character Recognition,” arXiv:2101.08674 [cs], Jan. 2021, Accessed: Jan. 22, 2021. [Online]. Available: http://arxiv.org/abs/2101.08674.
 * Yan Wang, "Danbooru2018 Anime Character Recognition Dataset," July 2019. https://github.com/grapeot/Danbooru2018AnimeCharacterRecognitionDataset 
-* Anonymous, The Danbooru Community, Gwern Branwen, & Aaron Gokaslan; �Danbooru2018: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset�, 3 January 2019. https://www.gwern.net/Danbooru2018
+* Anonymous, The Danbooru Community, & Gwern Branwen; “Danbooru2020: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset”, 2020-01-12. Web. Accessed [DATE] https://www.gwern.net/Danbooru2020
+
+
+```bibtex
+@misc{rios2021dafre,
+      title={DAF:re: A Challenging, Crowd-Sourced, Large-Scale, Long-Tailed Dataset For Anime Character Recognition}, 
+      author={Edwin Arkel Rios and Wen-Huang Cheng and Bo-Cheng Lai},
+      year={2021},
+      eprint={2101.08674},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ```bibtex
     @misc{danboorucharacter,
@@ -128,17 +144,18 @@ If you find the dataset useful, please consider citing the dataset:
 ```
 
 ```bibtex
-    @misc{danbooru2018,
-        author = {Anonymous, the Danbooru community, Gwern Branwen, Aaron Gokaslan},
-        title = {Danbooru2018: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset},
-        howpublished = {\url{https://www.gwern.net/Danbooru2018}},
-        url = {https://www.gwern.net/Danbooru2018},
+    @misc{danbooru2020,
+        author = {Anonymous and Danbooru community and Gwern Branwen},
+        title = {Danbooru2020: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset},
+        howpublished = {\url{https://www.gwern.net/Danbooru2020}},
+        url = {https://www.gwern.net/Danbooru2020},
         type = {dataset},
-        year = {2019},
+        year = {2021},
         month = {January},
-        timestamp = {2019-01-02},
+        timestamp = {2020-01-12},
         note = {Accessed: DATE} }
 ```
+
 
 ## Character Recognition Baseline
 
