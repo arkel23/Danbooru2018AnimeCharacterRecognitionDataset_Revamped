@@ -1,20 +1,37 @@
-# REVAMPED
+# DanbooruAnimeFaces:revamped Summary
+
+Process to obtain the dataset and tags:
+![](./support/assets/DatasetPreparation.png)
+
+Download from the following [Google Drive folder](https://drive.google.com/drive/folders/1S_T8R7gbY47dfRH9dUBXOstlOwVuMmXe?usp=sharing).
+From `data` folder in Google Drive download `dafre_faces.tar.gz` for *DAF:re Faces* or `dafre_full.tar.gz` for *DAF:re Full*, and `labels.tar.gz` and uncompress their contents into desired data storage location (suggest to clone this [DAF:re repo](https://github.com/arkel23/Danbooru2018AnimeCharacterRecognitionDataset_Revamped) and uncompress these folders) so that both `faces` and/or `fullMin256` directories, along with `labels` are at the same level.
+
+We have two splits, one for face-crops only, and one for full-body images, named as  *DAF:re Faces* and *DAF:re Full*, respectively. Samples from the training set for both versions can be seen below:
+![](.support/visualization_stats/eda/dafre_faces_full_gridsdanbooruFaces_train_labelsFalse_orderedFalse.png)
+![](.support/visualization_stats/eda/dafre_faces_full_grids/danbooruFull_train_labelsTrue_orderedFalse.png)
+
+Histogram of classes with most samples. It's clear that the distribution is very long-tailed.
+![](.support/assets/histogram_tags_cat4.png)
+
+Wordcloud of category 0 tags at word-level along with most popular tags:
+![](./support/assets/wordcloud_tags_cat0_wordlevel.png)
+![](.support/assets/histogram_tags_cat0_taglevel.png)
 
 This repo provides substantial changes to the dataset provided by 
 [grapeot](https://github.com/grapeot/Danbooru2018AnimeCharacterRecognitionDataset).
-Scripts provided to make the new dataset are provided as follows:
-* `make_data_dic_danbooru.py` reads the original faces.tsv file and extracts directories and IDs with prediction confidence above 85% as previously done. 
+Scripts provided to make the new dataset are included in the `support` directories, and process the data as described in the above diagram:
+* `support/dafre_create_prepare/make_data_dic_danbooru.py` reads the original faces.tsv file and extracts directories and IDs with prediction confidence above 85% as previously done. 
 Then only the IDs and addresses are kept.
-* `data_split_danbooru.py` reads the resulting danbooru2018_faces_85.csv file from the previous script and generates train, val and test.csv files corresponding to
+* `support/dafre_create_prepare/data_split_danbooru.py` reads the resulting danbooru2018_faces_85.csv file from the previous script and generates train, val and test.csv files corresponding to
 0.7, 0.1 and 0.2 ratios of the total number of images.
 Additionally, this script only keeps the classes with at least 10 examples in the dataset.
 This makes the dataset keep its use for testing for long-tailed and few-shot classification and detection tasks
 But at the same time reducing the overall complexity of the set.
+* `support/download_resize` scripts support download and creation of the resized to 256 short side versions of the original full resolution images (without the white or black padding used in the 512x512px originally provided).
+* `support/tags_prepare` include supporting scripts to prepare the tags from the original Danbooru2018 metadata, and filter according to the above steps. 
+* `visualization_stats` include functions to make histograms, wordclouds and display stats above the different tag categories for the dataset, by taking in a `dafre*.csv` file. It also includes functions to display the dataset pictures or search by tags.
 
-Download set and unpack into the same root directory as the Danbooru2018AnimeCharacterRecognitionDataset
-Unpack tarball: `tar -xvf file.tar`
-
-Below has been unchanged.
+Below has been unchanged
 
 # Danbooru 2018 Anime Character Recognition Dataset
 
@@ -97,7 +114,7 @@ rsync --verbose rsync://78.46.86.149:873/biggan/2019-07-27-grapeot-danbooru2018-
 If you find the dataset useful, please consider citing the dataset:
 
 * Yan Wang, "Danbooru2018 Anime Character Recognition Dataset," July 2019. https://github.com/grapeot/Danbooru2018AnimeCharacterRecognitionDataset 
-* Anonymous, The Danbooru Community, Gwern Branwen, & Aaron Gokaslan; “Danbooru2018: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset”, 3 January 2019. https://www.gwern.net/Danbooru2018
+* Anonymous, The Danbooru Community, Gwern Branwen, & Aaron Gokaslan; ï¿½Danbooru2018: A Large-Scale Crowdsourced and Tagged Anime Illustration Datasetï¿½, 3 January 2019. https://www.gwern.net/Danbooru2018
 
 ```bibtex
     @misc{danboorucharacter,
