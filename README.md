@@ -4,7 +4,7 @@ Process to obtain the dataset and tags:
 ![](./support/assets/DatasetPreparation.png)
 
 Download from the following [Google Drive folder](https://drive.google.com/drive/folders/1S_T8R7gbY47dfRH9dUBXOstlOwVuMmXe?usp=sharing).
-From `data` folder in Google Drive download `dafre_faces.tar.gz` for *DAF:re Faces* or `dafre_full.tar.gz` for *DAF:re Full*, and `labels.tar.gz` and uncompress their contents into desired data storage location (suggest to clone this [DAF:re repo](https://github.com/arkel23/Danbooru2018AnimeCharacterRecognitionDataset_Revamped) and uncompress these folders) so that both `faces` and/or `fullMin256` directories, along with `labels` are at the same level.
+From `data` folder in Google Drive download `dafre_faces.tar.gz` for *DAF:re Faces* or `dafre_full.tar.gz` for *DAF:re Full*, and `labels.tar.gz` and uncompress their contents into desired data storage location (suggest to clone this [DAF:re repo](https://github.com/arkel23/Danbooru2018AnimeCharacterRecognitionDataset_Revamped) and uncompress these folders) so that both `faces` and/or `fullMin256` directories, along with `labels` are at the same level. Also, uncompress `labels/tags_tar.gz`.
 
 We have two splits, one for face-crops only, and one for full-body images, named as  *DAF:re Faces* and *DAF:re Full*, respectively. Samples from the training set for both versions can be seen below:
 ![](./support/visualization_stats/eda/dafre_faces_full_grids/danbooruFaces_train_labelsFalse_orderedFalse.png)
